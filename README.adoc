@@ -1,12 +1,12 @@
 image:https://upload.wikimedia.org/wikipedia/commons/a/a2/BFH_Logo_deutsch.png[BFH]
 
-= Modulkonzept <Modul Bezeichnung> (<Modul Kürzel>)
+= Modulkonzept Open Source Software Management (EOSS)
 
-=== Autor:
+=== Autor: @MarkusTiede
 
-=== Version: 
+=== Version: draft
 
-=== Gültig ab:
+=== Gültig ab: HS 2022
 
 == Formale Beschreibung
 
@@ -14,35 +14,35 @@ image:https://upload.wikimedia.org/wikipedia/commons/a/a2/BFH_Logo_deutsch.png[B
 |===
 
 | Modulname und -kürzel 
-| 
+| Open Source Software Management (EOSS)
 
 | Verantwortliches Institut, ggfs. Fachgruppe
-| 
+| Institut Public Sector Transformation (IPST)
 
 | Studiengang
-| 
+| Bachelor of Science Wirtschaftsinformatik (BWI)
 
 | Stufe
-| 
+| Hauptstudium
 
 | ggfs. Vertiefung / Wahlpflichtgruppe
-| 
+| n/a
 
 | Semester
-| 
+| 3. Semester Vollzeit, 4. Semester Teilzeit
 
 | Durchführungsmodus & Hinweise für Stundenplan
-| 
+| Alle zwei Wochen 4-Lektionenblock
 
 | ECTS-Credits
-| 
+| 3 ECTS-Credits
 
 | Sprache
-| 
+| Deutsch / Inhalte & Unterlagen: Englisch
 
 | Zielgruppe inkl. Eignung für Incoming-Stud.
-| 
-
+| primär ausgerichtet auf BWI-Studierende +
+offen für Studierende anderer Studiengänge oder Incoming-Studierende (mit Interesse an Open Source Software)
 |
 |===
 
@@ -53,39 +53,150 @@ image:https://upload.wikimedia.org/wikipedia/commons/a/a2/BFH_Logo_deutsch.png[B
 
 | Kurzbeschreibung +
 (öffentlich, für IS-A) 
-| 
+| Dieses Modul vermittelt die grundlegenden Konzepte für den Aufbau effektiver Open-Source-Praktiken in Unternehmen. +
 
+Im Zentrum stehen dabei folgenden Phasen: +
+•	die Verwendung von Open-Source, +
+•	das Mitwirken in fremden +
+•	sowie das Freigeben von eigenen Projekten +
+
+Eingebettet werden diese Schwerpunktthemen in strategische Überlegungen sowie handfeste Governance Prozesse.
 | Detaillierte Beschreibung 
-| 
+| In the first section, you will learn the basic components of open source and open standards. You will also learn about the differences between open source and closed source software, the reasons for the use of each, and how the combination of standards and open source provides increased value to an organization. +
+
+The second section discusses the various open source business models and how to develop practical strategies and policies for your organization’s chosen model. It also explains the value and importance of an Open Source Program Office (OSPO) as well as how the OSPO helps provide assistance in defining ROI and other open source metrics. +
+
+In the third section, you will learn how to build an effective OSPO and articulate the different types of roles and responsibilities needed to run it successfully. +
+
+Section 4 talks about the role of continuous integration and testing in a healthy open source project, and how you can apply open source development principles to internal projects within your organization to take best advantage of the value these principles bring. +
+
+In the fifth section you will learn about the importance of effective open source license compliance and how to build programs and processes to ensure safe and effective consumption of open source in the enterprise. You will also get familiar with the most common open source license types, and their major characteristics, as well as how to choose the most appropriate license for a given situation. +
+
+Section 6 discusses how to work most effectively with upstream open source projects and how to build sound contribution strategies in organizations to get the maximum benefit from working with project communities. It also describes multiple common upstream project governance models, and explains how these governance practices affect an organization’s ability to make effective contributions. +
+
+Finally, the last section discusses the rationale and value for creating new open source projects as well as the required legal, business and development processes needed to launch new projects.
 
 | Modulinhalte und Zusammenarbeit +
 (Modulaufbau, Fachinhalte, Methoden, Praxisfälle, Forschungsbezug)
-| 
+| Modulaufbau
+zweiwöchentlicher 4-Lektionenblock während des Semesters +
+eine Durchführung pro Klasse +
 
+*Week 1*: Open Source Introduction +
+-	Introducing Open Source +
+-	A Short History of Open Source Software +
+-	Reasons to Use Open Source +
+
+*Week 3*: Open Source Business Strategy +
+-	Introducing Open Source Business Models +
+-	Developing an Open Source Strategy +
+-	Developing Open Source Policies +
+-	Introducing the Open Source Program Office +
+
+*Week 5*: Effective Open Source Program Management +
+-	Open Source Program Offices & Your Organization +
+-	Building an Effective Open Source Program Office +
+-	Additional Information & Case Studies +
+
+*Week 7*: Open Source Development Practices +
+-	Effective Open Source Development & Participation +
+-	The Role of Continuous Integration & Testing +
+-	Applying Open Source Methodologies Internally +
+
+*Week 9*: Open Source Compliance Programs +
+-	Open Source Licensing and Compliance Basics +
+-	Building an Effective Compliance Program +
+-	Choosing the Right License Compliance Tool +
+-	The Role of Open Source Audits During M&A Activities +
+
+*Week 11*: Collaborating Effectively with Open Source Projects +
+-	Understanding Upstream Open Source Projects +
+-	Effective Upstream Contribution Strategies +
+-	Upstream Development Practices +
+
+*Week 13*: Creating Open Source Projects +
+-	Open Source Project Creation Overview +
+-	New Project Preparations +
+-	Successful Project Launch & Sustainment +
+
+Methoden +
+todo +
+
+Praxisfälle +
+https://todogroup.org/guides/#ospo-case-studies +
+
+Forschungsbezug +
+Todo +
+
+Zusammenarbeit +
+todo
 | Lehr- und Lernformen
-| 
+| Präsenzstudium +
+Wissenerarbeitung, Lehrgespräch, Projektarbeit +
 
+Selbststudium +
+Literaturstudium, Videos
 | Verwendete Tools
-| 
+| Github / Gitlab
 
 | Literatur
-| 
+| https://opensourcefriday.com +
+https://todogroup.org
 
 | Eingangskompetenzen +
 (Fachkompetenzen und Kompetenzen gemäss Kompetenzmodell BFH-W)
-| 
+| Fachkompetenzen: +
+-	grundlegendes Verständnis von Softwareentwicklung +
+-	Business Konzepte +
+Kompetenzen gemäss Kompetenzmodell BFH-W: +
+-	todo
 
 | Vermittelte Kompetenzen +
 (Fachkompetenzen und Kompetenzen gemäss Kompetenzmodell BFH-W)
-| 
+| Fachkompetenzen: +
+-	build effective processes and strategies for creating new open source projects from scratch +
+-	open source previously closed source projects within an organization +
+Kompetenzen gemäss Kompetenzmodell BFH-W +
+-	todo +
 
+https://openpracticelibrary.com +
+
+Problemsolving / Design Thinking (verwandt: Methodenkompetenz) +
+-	Agile Methoden +
+  -	Definition of Ready +
+  -	Definition of Done +
+
+Kollaboration (verwandt: Sozialkompetenzen) +
+-	Continuous Integration +
+-	Code Review +
+
+Selbstmanagement (verwandt: Selbstkompetenzen) +
+-	Retrospectives +
+-	Shared Principles +
+
+Umgang mit Komplexität +
+-	Test Automation +
+-	Test Driven Development +
+-	Everything-as-Code +
+  -	Docs As Code +
+  -	GitOps +
 | Schnittstellen zu anderen Modulen +
 (zuführende, parallele, weiterführende)
-| 
+| Fach-/Methodenmodule +
+•	todo +
+
+Praxistransfermodule +
+•	todo
 
 | Kompetenznachweis*
-| 
+| Unterricht beurteilen +
+•	PC Prüfung mit Safe Exam Browser +
+•	Gewichtung 79% +
+•	Hilfsmittel «Zusammenfassung» +
+•	90 min +
 
+Übung beurteilen +
+•	Abgaben der Übungen (Gewichtung 21% : 7 x 3%) +
 |
 |===
 
