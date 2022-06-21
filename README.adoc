@@ -1,0 +1,106 @@
+image:https://upload.wikimedia.org/wikipedia/commons/a/a2/BFH_Logo_deutsch.png[BFH]
+
+= Modulkonzept <Modul Bezeichnung> (<Modul Kürzel>)
+
+=== Autor:
+
+=== Version: 
+
+=== Gültig ab:
+
+== Formale Beschreibung
+
+[cols=">,1"] 
+|===
+
+| Modulname und -kürzel 
+| 
+
+| Verantwortliches Institut, ggfs. Fachgruppe
+| 
+
+| Studiengang
+| 
+
+| Stufe
+| 
+
+| ggfs. Vertiefung / Wahlpflichtgruppe
+| 
+
+| Semester
+| 
+
+| Durchführungsmodus & Hinweise für Stundenplan
+| 
+
+| ECTS-Credits
+| 
+
+| Sprache
+| 
+
+| Zielgruppe inkl. Eignung für Incoming-Stud.
+| 
+
+|
+|===
+
+== Inhaltliche Beschreibung
+
+[cols=">,1"] 
+|===
+
+| Kurzbeschreibung +
+(öffentlich, für IS-A) 
+| 
+
+| Detaillierte Beschreibung 
+| 
+
+| Modulinhalte und Zusammenarbeit +
+(Modulaufbau, Fachinhalte, Methoden, Praxisfälle, Forschungsbezug)
+| 
+
+| Lehr- und Lernformen
+| 
+
+| Verwendete Tools
+| 
+
+| Literatur
+| 
+
+| Eingangskompetenzen +
+(Fachkompetenzen und Kompetenzen gemäss Kompetenzmodell BFH-W)
+| 
+
+| Vermittelte Kompetenzen +
+(Fachkompetenzen und Kompetenzen gemäss Kompetenzmodell BFH-W)
+| 
+
+| Schnittstellen zu anderen Modulen +
+(zuführende, parallele, weiterführende)
+| 
+
+| Kompetenznachweis*
+| 
+
+|
+|===
+
+== Anhang
+
+=== Zweck des Dokuments
+
+Das Modulkonzept dient dem gemeinsamen Verständnis aller an einem Modul Beteiligen bezüglich Inhalte, Didaktik und Tools. Es ist das zentrale Dokument beim Aufbau und bei Überarbeitungen von Modulen. Darüber hinaus hat es aber weitere Zielgruppen:
+
+•	Dozierende/WMAs anderer Module: zum Aufbau und zur Abgrenzung von eigenen Modulinhalten, zum Angebot eines ausgewogenen Mixes von didaktischen Methoden sowie für einen koordinierten Einsatz von Tools
+•	Studiengangsleitende: für die Kenntnis von Ansprechpartnern sowie zur Koordination von Modulinhalten, Didaktikvielfalt und Tooleinsatz
+•	Instituts-, Abteilungs- und Fachgruppenleitende: zur Festlegung der Zuständigkeiten, für organisationsübergreifende Zusammenarbeit sowie zur Förderung von Themen der jeweiligen Organisationseinheiten
+
+Die Studierenden sind keine direkte Zielgruppe des Modulkonzepts. In der Regel werden Ihnen nur Auszüge aus dem Konzept zur Verfügung gestellt; diese werden in die Modulbeschreibung auf IS-Academia übertragen. Die einzelnen Blöcke der Modulbeschreibung in IS-Academia sollen möglichst direkt aus dem Modulkonzept übernommen werden.
+
+Das Modulkonzept wird im Rahmen des Neuaufbaus eines Moduls erstellt und bei Überarbeitungen angepasst. Zu jedem Zeitpunkt soll eine aktuelle Version verfügbar sein.
+
+Die in der Vorlage zum Modulkonzept enthaltenen Blöcke sind Pflichtbausteine, zusätzliche Blöcke sind möglich. Diese sollen direkt im Konzept und nicht in separaten Dokumenten ergänzt werden.
