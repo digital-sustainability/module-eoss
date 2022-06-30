@@ -141,7 +141,8 @@ Literaturstudium, Videos
 
 | Literatur
 | https://opensourcefriday.com +
-https://todogroup.org
+https://todogroup.org +
+https://ospo101.org
 
 | Eingangskompetenzen +
 (Fachkompetenzen und Kompetenzen gemäss Kompetenzmodell BFH-W)
