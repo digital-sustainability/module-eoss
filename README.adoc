@@ -53,14 +53,14 @@ offen für Studierende anderer Studiengänge oder Incoming-Studierende (mit Inte
 
 | Kurzbeschreibung +
 (öffentlich, für IS-A) 
-| Dieses Modul vermittelt die grundlegenden Konzepte für den Aufbau effektiver Open-Source-Praktiken in Unternehmen. +
+| Dieses Modul vermittelt die grundlegenden Konzepte für den Aufbau effektiver Open Source Praktiken in Unternehmen und Behörden. Im Zentrum stehen dabei folgenden Phasen:
 
-Im Zentrum stehen dabei folgenden Phasen: +
-•	die Verwendung von Open-Source, +
-•	das Mitwirken in fremden +
-•	sowie das Freigeben von eigenen Projekten +
+- Verwendung von Open Source Software
+- Mitwirkung in bestehenden Open Source Projekten
+- Initialisierung und Community Building von eigenen Open Source Projekten
 
-Eingebettet werden diese Schwerpunktthemen in strategische Überlegungen sowie handfeste Governance Prozesse.
+Eingebettet werden diese Schwerpunktthemen in strategischen Überlegungen, Governance Prozesse und Umsetzungen.
+
 | Detaillierte Beschreibung 
 | In the first section, you will learn the basic components of open source and open standards. You will also learn about the differences between open source and closed source software, the reasons for the use of each, and how the combination of standards and open source provides increased value to an organization. +
 
@@ -193,7 +193,7 @@ Praxistransfermodule +
 | Unterricht beurteilen +
 •	PC Prüfung mit Safe Exam Browser +
 •	Gewichtung 79% +
-•	Hilfsmittel «Zusammenfassung» +
+•	Hilfsmittel «Zusammenfassung» (max 10 Seiten) +
 •	90 min +
 
 Übung beurteilen +
