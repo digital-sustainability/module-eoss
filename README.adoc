@@ -4,7 +4,7 @@ image:https://upload.wikimedia.org/wikipedia/commons/a/a2/BFH_Logo_deutsch.png[B
 
 === Autor: @MarkusTiede
 
-=== Version: 1.0
+=== link:https://semver.org[Version]: 1.0
 
 === Gültig ab: HS 2022
 
