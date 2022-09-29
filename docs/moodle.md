@@ -33,6 +33,31 @@ BFH, **Brückenstrasse 73**, 3007 Bern, **Raum H219**
 - Informationen zur **Lernplattform**
 
 ### Lernziele
-- Inhalte **["OSPO 101 - Section 01: Open Source Introduction"](https://github.com/digital-sustainability/module-eoss-ospo101/blob/main/module1/README.md#section-introducing-open-source)**
+- Inhalte [**"OSPO 101 - Section 01: Open Source Introduction"**](https://github.com/digital-sustainability/module-eoss-ospo101/blob/main/module1/README.md#section-introducing-open-source)
 - Erste eigene **Schritte (Login, Browsing, Voting, Commenting, ...) auf GitHub**
 - Open Source **Projekte kennenlernen**
+
+## Selbstlernphase 1
+
+30. September - 14. Oktober 2022
+
+Tasks
+
+1. Read & prepare: [OSPO 101 - Section 02: Open Source Business Strategy](https://github.com/digital-sustainability/module-eoss-ospo101/blob/main/module2/README.md#section-introducing-open-source-business-models)
+1. Collect questions: https://etherpad.wikimedia.org/p/bfh-ch-module-eoss
+1. [💪 #02.01: History ✅](https://github.com/digital-sustainability/module-eoss-hs22-sandbox/issues/5)
+
+## Treffen 2
+
+### Zeit & Ort
+**Fr, 14. Oktober 2022, 12.35 - 16.00h**
+
+BFH, **Brückenstrasse 73**, 3007 Bern, **Raum H219**
+
+### Agenda
+- **Recap**: Inputs & Aufgaben "OSPO 101 - Section 01
+- [offene **Fragen klären**](https://etherpad.wikimedia.org/p/bfh-ch-module-eoss)
+- **Inputs & Aufgaben "OSPO 101 - Section 02"**
+
+### Lernziele
+- Inhalte [**"OSPO 101 - Section 02: Open Source Business Strategy"**](https://github.com/digital-sustainability/module-eoss-ospo101/blob/main/module2/README.md#section-introducing-open-source-business-models)
