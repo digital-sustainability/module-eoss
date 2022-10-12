@@ -45,7 +45,9 @@ Tasks
 
 1. Read & prepare: [OSPO 101 - Section 02: Open Source Business Strategy](https://github.com/digital-sustainability/module-eoss-ospo101/blob/main/module2/README.md#section-introducing-open-source-business-models)
 1. Collect questions: https://etherpad.wikimedia.org/p/bfh-ch-module-eoss
-1. [💪 #02.01: History ✅](https://github.com/digital-sustainability/module-eoss-hs22-sandbox/issues/5)
+1. Section 1 Task: [💪 #01.05: License(s) ✅](https://github.com/digital-sustainability/module-eoss-hs22-sandbox/issues/3)
+1. Section 1 Task: [💪 #01.06: Reason(s) ✅](https://github.com/digital-sustainability/module-eoss-hs22-sandbox/issues/4)
+1. Section 2 Task: [💪 #02.01: History ✅](https://github.com/digital-sustainability/module-eoss-hs22-sandbox/issues/5)
 
 ## Treffen 2
 
@@ -61,3 +63,8 @@ BFH, **Brückenstrasse 73**, 3007 Bern, **Raum H219**
 
 ### Lernziele
 - Inhalte [**"OSPO 101 - Section 02: Open Source Business Strategy"**](https://github.com/digital-sustainability/module-eoss-ospo101/blob/main/module2/README.md#section-introducing-open-source-business-models)
+  - **Business** Models
+  - **Strategy**
+  - **Policies**
+  - OSPO **Introduction**
+- **Pull Request(s) auf GitHub**
