@@ -41,7 +41,7 @@ BFH, **Brückenstrasse 73**, 3007 Bern, **Raum H219**
 
 30. September - 14. Oktober 2022
 
-Tasks
+### Tasks
 
 1. Read & prepare: [OSPO 101 - Section 02: Open Source Business Strategy](https://github.com/digital-sustainability/module-eoss-ospo101/blob/main/module2/README.md#section-introducing-open-source-business-models)
 1. Collect questions: https://etherpad.wikimedia.org/p/bfh-ch-module-eoss
@@ -69,3 +69,13 @@ BFH, **Brückenstrasse 73**, 3007 Bern, **Raum H219**
   - OSPO **Introduction**
 - **Pull Request(s) auf GitHub**
 - **BigBlueButton** Introduction & Usage
+
+## Selbstlernphase 2
+
+14.-28. Oktober 2022
+
+### Tasks
+
+1. Read & prepare: [OSPO 101 - Section 03: Effective Open Source Program (OSPO) Management](https://github.com/digital-sustainability/module-eoss-ospo101/blob/main/module3/README.md#open-source-program-offices-ospo-and-your-organization)
+1. Collect questions: https://etherpad.wikimedia.org/p/bfh-ch-module-eoss
+1. Section 2 Task: [💪 #02.03: Strategy ✅](https://github.com/digital-sustainability/module-eoss-hs22-sandbox/issues/7)
