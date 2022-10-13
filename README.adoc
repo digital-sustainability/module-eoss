@@ -164,8 +164,8 @@ https://openpracticelibrary.com +
 
 Problemsolving / Design Thinking (verwandt: Methodenkompetenz) +
 -	Agile Methoden +
-  -	Definition of Ready +
-  -	Definition of Done +
+  -	link:https://openpracticelibrary.com/practice/definition-of-ready/[Definition of Ready] +
+  -	link:https://openpracticelibrary.com/practice/definition-of-done/[Definition of Done] +
 
 Kollaboration (verwandt: Sozialkompetenzen) +
 -	Continuous Integration +
