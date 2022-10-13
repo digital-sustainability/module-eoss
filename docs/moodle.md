@@ -79,3 +79,21 @@ BFH, **Brückenstrasse 73**, 3007 Bern, **Raum H219**
 1. Read & prepare: [OSPO 101 - Section 03: Effective Open Source Program (OSPO) Management](https://github.com/digital-sustainability/module-eoss-ospo101/blob/main/module3/README.md#open-source-program-offices-ospo-and-your-organization)
 1. Collect questions: https://etherpad.wikimedia.org/p/bfh-ch-module-eoss
 1. Section 2 Task: [💪 #02.03: Strategy ✅](https://github.com/digital-sustainability/module-eoss-hs22-sandbox/issues/7) - Analyse, document and (be able to) present your business
+
+## Treffen 3
+
+### Zeit & Ort
+
+``` to be defined ```
+
+### Agenda
+- **Recap**: Inputs & Aufgaben "OSPO 101 - Section 02
+- [offene **Fragen klären**](https://etherpad.wikimedia.org/p/bfh-ch-module-eoss)
+- **Inputs & Aufgaben "OSPO 101 - Section 03"**
+
+### Lernziele
+- Present (business) model, open (source) strategy and (related) policies of an existing business
+- Inhalte [**OSPO 101 - Section 03: Effective Open Source Program (OSPO) Management**](https://github.com/digital-sustainability/module-eoss-ospo101/blob/main/module3/README.md#open-source-program-offices-ospo-and-your-organization)
+  - Open Source Program Offices & **Your Organization**
+  - **Building an Effective** Open Source Program Office
+  - Additional **Information & Case Studies**
