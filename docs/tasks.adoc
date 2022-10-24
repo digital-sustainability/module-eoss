@@ -58,6 +58,6 @@
 |link:content/02/10.md[Policies]
 
 |#link:content/02/[02].05
-|10‰ 
+|5‰ 
 |link:content/02/12.md[BBB]
 |===
