@@ -31,6 +31,10 @@
 |#link:content/01/[01].06
 |5‰ 
 |link:content/01/12.md[Reason(s)]
+
+|
+|35‰
+|
 |===
 
 == Module 2
@@ -60,4 +64,8 @@
 |#link:content/02/[02].05
 |5‰ 
 |link:content/02/12.md[BBB]
+
+|
+|25‰
+|
 |===
