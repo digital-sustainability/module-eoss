@@ -84,7 +84,9 @@ BFH, **Brückenstrasse 73**, 3007 Bern, **Raum H219**
 
 ### Zeit & Ort
 
-``` to be defined ```
+**Fr, 28. Oktober 2022, 12.35 - 16.00h**
+
+https://bbb.ch-open.ch/b/mar-ttf-4g4
 
 ### Agenda
 - **Recap**: Inputs & Aufgaben "OSPO 101 - Section 02
