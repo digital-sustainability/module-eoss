@@ -6,26 +6,26 @@
 |Weight 
 |Topic & Link
 
-|#link:docs/content/01/[01].01
+|#link:content/01/[01].01
 |5‰ 
-|link:docs/content/01/02.md[Account]
+|link:content/01/02.md[Account]
 
-|#link:docs/content/01/[01].02
+|#link:content/01/[01].02
 |5‰ 
-|link:docs/content/01/04.md[Goal(s)]
+|link:content/01/04.md[Goal(s)]
 
-|#link:docs/content/01/[01].03
+|#link:content/01/[01].03
 |5‰ 
-|link:docs/content/01/06.md[Level(s)]
+|link:content/01/06.md[Level(s)]
 
-|#link:docs/content/01/[01].04
+|#link:content/01/[01].04
 |5‰ 
-|link:docs/content/01/08.md[Star(s)]
+|link:content/01/08.md[Star(s)]
 
-|#link:docs/content/01/[01].05
+|#link:content/01/[01].05
 |10‰ 
-|link:docs/content/01/10.md[License(s)]
+|link:content/01/10.md[License(s)]
 
-|#link:docs/content/01/[01].06
+|#link:content/01/[01].06
 |5‰ 
-|link:docs/content/01/12.md[Reason(s)]
+|link:content/01/12.md[Reason(s)]
