@@ -57,7 +57,7 @@ BFH, **Brückenstrasse 73**, 3007 Bern, **Raum H219**
 BFH, **Brückenstrasse 73**, 3007 Bern, **Raum H219**
 
 ### Agenda
-- **Recap**: Inputs & Aufgaben "OSPO 101 - Section 01
+- **Recap**: Inputs & Aufgaben "OSPO 101 - Section 01"
 - [offene **Fragen klären**](https://etherpad.wikimedia.org/p/bfh-ch-module-eoss)
 - **Inputs & Aufgaben "OSPO 101 - Section 02"**
 
@@ -89,7 +89,7 @@ BFH, **Brückenstrasse 73**, 3007 Bern, **Raum H219**
 https://bbb.ch-open.ch/b/mar-ttf-4g4
 
 ### Agenda
-- **Recap**: Inputs & Aufgaben "OSPO 101 - Section 02
+- **Recap**: Inputs & Aufgaben "OSPO 101 - Section 02"
 - [offene **Fragen klären**](https://etherpad.wikimedia.org/p/bfh-ch-module-eoss)
 - **Inputs & Aufgaben "OSPO 101 - Section 03"**
 
@@ -119,7 +119,7 @@ https://bbb.ch-open.ch/b/mar-ttf-4g4
 BFH, **Brückenstrasse 73**, 3007 Bern, **Raum H219**
 
 ### Agenda
-- **Recap**: Inputs & Aufgaben "OSPO 101 - Section 03
+- **Recap**: Inputs & Aufgaben "OSPO 101 - Section 03"
 - [offene **Fragen klären**](https://etherpad.wikimedia.org/p/bfh-ch-module-eoss)
 - **Inputs & Aufgaben "OSPO 101 - Section 04"**
 
