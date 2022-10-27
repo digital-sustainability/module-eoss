@@ -95,12 +95,12 @@
 |link:content/03/08.md[Feedback 1:1]
 
 |#link:content/03/[03].05
-|15‰ 
+|10‰ 
 |link:content/03/10.md[Enhance]
 
 |#link:content/03/[03].06
-|0‰ 
-|link:content/03/12.md[Present (1/3)]
+|5‰ 
+|link:content/03/12.md[Merge]
 
 |
 |30‰
