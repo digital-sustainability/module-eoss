@@ -99,3 +99,33 @@ https://bbb.ch-open.ch/b/mar-ttf-4g4
   - Open Source Program Offices & **Your Organization**
   - **Building an Effective** Open Source Program Office
   - Additional **Information & Case Studies**
+
+## Selbstlernphase 3
+
+28. Oktober - 11. November 2022
+
+### Tasks
+
+1. Read & prepare: [OSPO 101 - Section 04: Open Source Development Practices](https://github.com/digital-sustainability/module-eoss-ospo101/blob/main/module4/README.md#effective-open-source-development--participation)
+1. Collect questions: https://etherpad.wikimedia.org/p/bfh-ch-module-eoss
+1. TBD
+
+## Treffen 4
+
+### Zeit & Ort
+
+**Fr, 11. November 2022, 12.35 - 16.00h**
+
+BFH, **Brückenstrasse 73**, 3007 Bern, **Raum H219**
+
+### Agenda
+- **Recap**: Inputs & Aufgaben "OSPO 101 - Section 03
+- [offene **Fragen klären**](https://etherpad.wikimedia.org/p/bfh-ch-module-eoss)
+- **Inputs & Aufgaben "OSPO 101 - Section 04"**
+
+### Lernziele
+- Present business model, open strategy and policies of an existing business + details & feedbacks
+- Inhalte [**OSPO 101 - Section 04: Open Source Development Practices**](https://github.com/digital-sustainability/module-eoss-ospo101/blob/main/module4/README.md#effective-open-source-development--participation)
+  - Effective Open Source **Development & Participation**
+  - The Role of **Continuous Integration & Testing**
+  - Applying **Open Source Methodologies Internally**
