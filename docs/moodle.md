@@ -108,7 +108,7 @@ https://bbb.ch-open.ch/b/mar-ttf-4g4
 
 1. Read & prepare: [OSPO 101 - Section 04: Open Source Development Practices](https://github.com/digital-sustainability/module-eoss-ospo101/blob/main/module4/README.md#effective-open-source-development--participation)
 1. Collect questions: https://etherpad.wikimedia.org/p/bfh-ch-module-eoss
-1. TBD
+1. Section 2 Task: 💪 #02.03: Strategy ✅ - Finish: Analyse, document and (be able to) present (at next exchange on-site) your business
 
 ## Treffen 4
 
