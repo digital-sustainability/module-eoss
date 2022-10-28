@@ -119,6 +119,7 @@ https://bbb.ch-open.ch/b/mar-ttf-4g4
 BFH, **Brückenstrasse 73**, 3007 Bern, **Raum H219**
 
 ### Agenda
+- ~11 individual #02.03 presentations of ~5 minutes (2 x 45 minutes for presentation slot)
 - **Recap**: Inputs & Aufgaben "OSPO 101 - Section 03"
 - [offene **Fragen klären**](https://etherpad.wikimedia.org/p/bfh-ch-module-eoss)
 - **Inputs & Aufgaben "OSPO 101 - Section 04"**
