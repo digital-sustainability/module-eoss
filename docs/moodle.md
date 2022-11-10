@@ -133,7 +133,7 @@ BFH, **Brückenstrasse 73**, 3007 Bern, **Raum H219**
 
 ## Selbstlernphase 4
 
-11. - 25. November 2022
+11.-25. November 2022
 
 ### Tasks
 
