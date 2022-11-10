@@ -125,7 +125,7 @@
 
 |#link:content/04/[04].03
 |5‰ 
-|link:content/04/09.md[Boy Scout Rule]
+|link:content/04/09.md#boy-scout-rule-[Boy Scout Rule]
 
 |#link:content/04/[04].04
 |10‰ 
