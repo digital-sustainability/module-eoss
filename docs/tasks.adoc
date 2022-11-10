@@ -121,26 +121,22 @@
 
 |#link:content/04/[04].02
 |5‰ 
-|link:content/04/02.md[#2 Pull Request]
+|link:content/04/09.md[Key Takeaway(s)]
 
 |#link:content/04/[04].03
 |5‰ 
-|
+|link:content/04/09.md[Boy Scout Rule]
 
 |#link:content/04/[04].04
-|5‰ 
-|
+|10‰ 
+|link:content/04/09.md[Contribution]
 
 |#link:content/04/[04].05
-|5‰ 
-|
-
-|#link:content/04/[04].06
-|5‰ 
-|
+|15‰ 
+|Content of todays <Chosen business>.md file
 
 |
-|30‰
+|40‰
 |
 |===
 
