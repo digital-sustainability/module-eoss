@@ -130,3 +130,37 @@ BFH, **Brückenstrasse 73**, 3007 Bern, **Raum H219**
   - Effective Open Source **Development & Participation**
   - The Role of **Continuous Integration & Testing**
   - Applying **Open Source Methodologies Internally**
+
+## Selbstlernphase 4
+
+11. - 25. November 2022
+
+### Tasks
+
+1. Read & prepare: [OSPO 101 - Section 05: Open Source Licensing and Compliance Basics](https://github.com/digital-sustainability/module-eoss-ospo101/blob/main/module5/README.md)
+1. Collect questions: https://etherpad.wikimedia.org/p/bfh-ch-module-eoss
+1. Section 4 Tasks: 
+  - 💪 #04.01: Pull Request #2 ✅
+  - 💪 #04.02: Key Takeaway(s) ✅
+  - 💪 #04.03: Boy Scout Rule ✅
+  - 💪 #04.04: Contribution Idea ✅
+
+## Treffen 5
+
+### Zeit & Ort
+
+**Fr, 25. November 2022, 12.35 - 16.00h**
+
+https://bbb.ch-open.ch/b/mar-ttf-4g4
+
+### Agenda
+- **Recap**: Inputs & Aufgaben "OSPO 101 - Section 04"
+- [offene **Fragen klären**](https://etherpad.wikimedia.org/p/bfh-ch-module-eoss)
+- **Inputs & Aufgaben "OSPO 101 - Section 05"**
+
+### Lernziele
+- Inhalte [**OSPO 101 - Section 05: Open Source Compliance Programs**](https://github.com/digital-sustainability/module-eoss-ospo101/blob/main/module5/README.md)
+  - Open Source **Licensing and Compliance** Basics
+  - Building an Effective **Compliance Program**
+  - Choosing the Right License **Compliance Tool**
+  - The Role of Open Source **Audits During M&A** Activities
