@@ -1,6 +1,8 @@
+# EOSS
+
 ![](https://github.com/todogroup/ospo-career-path/raw/main/OSPO%20101/ospo101.svg)
 
-# EOSS - Open Source Software Management (HS22)
+# Open Source Software Management
 
 ![GitHub](https://img.shields.io/github/license/digital-sustainability/module-eoss)
 
