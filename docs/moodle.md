@@ -1,8 +1,10 @@
+![](https://github.com/todogroup/ospo-career-path/raw/main/OSPO%20101/ospo101.svg)
+
 # EOSS - Open Source Software Management (HS22)
 
-![](https://github.com/todogroup/ospo101/raw/main/ospo101.svg)
+![GitHub](https://img.shields.io/github/license/digital-sustainability/module-eoss)
 
-Dieses Modul vermittelt die **grundlegenden Konzepte für den Aufbau effektiver Open Source Praktiken** in Unternehmen und Behörden. Im Zentrum stehen dabei folgenden Phasen:
+Dieses [Modul](https://github.com/digital-sustainability/module-eoss#modulkonzept-open-source-software-management-eoss) vermittelt die **grundlegenden Konzepte für den Aufbau effektiver Open Source Praktiken** in Unternehmen und Behörden. Im Zentrum stehen dabei folgenden Phasen:
 
 - **Verwendung** von Open Source Software
 - **Mitwirkung** in bestehenden Open Source Projekten
