@@ -2,7 +2,7 @@ image:https://upload.wikimedia.org/wikipedia/commons/a/a2/BFH_Logo_deutsch.png[B
 
 = Modulkonzept Open Source Software Management (EOSS)
 
-=== Autor: @MarkusTiede
+=== Autor: link:http://twitter.com/MarkusTiede[@MarkusTiede]
 
 === link:https://semver.org[Version]: 1.0
 
@@ -17,7 +17,7 @@ image:https://upload.wikimedia.org/wikipedia/commons/a/a2/BFH_Logo_deutsch.png[B
 | Open Source Software Management (EOSS)
 
 | Verantwortliches Institut, ggfs. Fachgruppe
-| Institut Public Sector Transformation (IPST)
+| link:https://www.bfh.ch/en/research/research-areas/public-sector-transformation/[Institut Public Sector Transformation (IPST)]
 
 | Studiengang
 | Bachelor of Science Wirtschaftsinformatik (BWI)
