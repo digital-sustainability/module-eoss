@@ -242,7 +242,7 @@
 ## Exam Layout [draft]
  - Init
    * 21% + 79% = 100% 
-   * OSPO 101 has 7 Modules
+   * link:https://github.com/digital-sustainability/module-eoss-ospo101#course-outline[OSPO 101 has 7 Modules]
  - Content
    * 7 x 8% : ca. 2-6 Fragen pro Modul >> ca. 14-42 Fragen >> 56%
    * 23% : ca. 8-16 Fragen übergreifend (Slides and Tasks)
