@@ -168,3 +168,35 @@ https://bbb.ch-open.ch/b/mar-ttf-4g4
   - Building an Effective **Compliance Program**
   - Choosing the Right License **Compliance Tool**
   - The Role of Open Source **Audits During M&A** Activities
+
+## Selbstlernphase 5
+
+25. November - 09. Dezember 2022
+
+### Tasks
+
+1. Read & prepare: [OSPO 101 - Section 06: Understanding Upstream Open Source Projects](https://github.com/digital-sustainability/module-eoss-ospo101/blob/main/module6/README.md)
+1. Collect questions: https://etherpad.wikimedia.org/p/bfh-ch-module-eoss
+1. Section 5 Tasks: 
+  - 💪 #05.01: Public Contribution ✅
+  - 💪 #05.02: Public Pull Request ✅
+  - 💪 #05.03: (Meta) Change(s) ✅
+
+## Treffen 6
+
+### Zeit & Ort
+
+**Fr, 09. Dezember 2022, 12.35 - 16.00h**
+
+BFH, **Brückenstrasse 73**, 3007 Bern, **Raum H219**
+
+### Agenda
+- **Recap**: Inputs & Aufgaben "OSPO 101 - Section 05"
+- [offene **Fragen klären**](https://etherpad.wikimedia.org/p/bfh-ch-module-eoss)
+- **Inputs & Aufgaben "OSPO 101 - Section 06"**
+
+### Lernziele
+- Inhalte [**OSPO 101 - Section 06: Understanding Upstream Open Source Projects**](https://github.com/digital-sustainability/module-eoss-ospo101/blob/main/module6/README.md)
+  - Understanding **Upstream Open Source Projects**
+  - Effective **Upstream Contribution Strategies**
+  - Upstream Development Practices
