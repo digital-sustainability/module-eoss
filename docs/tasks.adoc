@@ -149,31 +149,19 @@
 |Topic & Link
 
 |#link:content/05/[05].01
-|5‰ 
-|
+|20‰ 
+|link:content/05/05.md[Public Contribution]
 
 |#link:content/05/[05].02
-|5‰ 
-|
+|30‰ 
+|link:content/05/07.md[Public Pull Request]
 
 |#link:content/05/[05].03
-|5‰ 
-|
-
-|#link:content/05/[05].04
-|5‰ 
-|
-
-|#link:content/05/[05].05
-|5‰ 
-|
-
-|#link:content/05/[05].06
-|5‰ 
-|
+|15‰ 
+|link:content/05/11.md[(Meta) Change(s)]
 
 |
-|30‰
+|65‰
 |
 |===
 
