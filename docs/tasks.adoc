@@ -238,3 +238,16 @@
 |30‰
 |
 |===
+
+## Exam Layout [draft]
+ - Init
+   * 21% + 79% = 100% 
+   * OSPO 101 has 7 Modules
+ - Content
+   * 7 x 8% : ca. 2-6 Fragen pro Modul >> ca. 14-42 Fragen >> 56%
+   * 23% : ca. 8-16 Fragen übergreifend (Slides and Tasks)
+   * ca. 22 - 58 Fragen - ca. 2 Minuten pro Frage
+ - Format
+   * PC Prüfung mit Safe Exam Browser
+   * Hilfsmittel «Zusammenfassung» (max 10 Seiten)
+   * 90 min Zeit
