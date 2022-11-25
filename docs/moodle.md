@@ -200,3 +200,32 @@ BFH, **Brückenstrasse 73**, 3007 Bern, **Raum H219**
   - Understanding **Upstream Open Source Projects**
   - Effective **Upstream Contribution Strategies**
   - Upstream Development Practices
+
+## Selbstlernphase 6
+
+09.-23. Dezember 2022
+
+### Tasks
+
+1. Read & prepare: [OSPO 101 - Section 07: Creating Open Source Projects](https://github.com/digital-sustainability/module-eoss-ospo101/blob/main/module7/README.md)
+1. Collect questions: https://etherpad.wikimedia.org/p/bfh-ch-module-eoss
+1. Section 6 Tasks: 
+
+## Treffen 7
+
+### Zeit & Ort
+
+**Fr, 23. Dezember 2022, 12.35 - 16.00h**
+
+https://bbb.ch-open.ch/b/mar-ttf-4g4
+
+### Agenda
+- **Recap**: Inputs & Aufgaben "OSPO 101 - Section 06"
+- [offene **Fragen klären**](https://etherpad.wikimedia.org/p/bfh-ch-module-eoss)
+- **Inputs "OSPO 101 - Section 07"**
+
+### Lernziele
+- Inhalte [**OSPO 101 - Section 07: Creating Open Source Projects**](https://github.com/digital-sustainability/module-eoss-ospo101/blob/main/module7/README.md)
+  - Open Source **Project Creation Overview**
+  - New **Project Preparations**
+  - Successful **Project Launch & Sustainment**
