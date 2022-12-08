@@ -210,6 +210,9 @@ BFH, **Brückenstrasse 73**, 3007 Bern, **Raum H219**
 1. Read & prepare: [OSPO 101 - Section 07: Creating Open Source Projects](https://github.com/digital-sustainability/module-eoss-ospo101/blob/main/module7/README.md)
 1. Collect questions: https://etherpad.wikimedia.org/p/bfh-ch-module-eoss
 1. Section 6 Tasks: 
+  - 💪 #06.01: Semantic Versioning ✅
+  - 💪 #06.02: Contribution model ✅
+  - 💪 #06.03: Contribution phase ✅
 
 ## Treffen 7
 
