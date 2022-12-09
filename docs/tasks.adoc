@@ -199,6 +199,7 @@
    * 23% : ca. 8-16 Fragen übergreifend (Slides and Tasks)
    * ca. 22 - 58 Fragen - ca. 2-3 Minuten pro Frage
  - Format
+   * Sprache der Fragen: Englisch
    * PC Prüfung mit Safe Exam Browser
    * Hilfsmittel «Zusammenfassung» (max 10 Seiten)
    * 90 min Zeit
