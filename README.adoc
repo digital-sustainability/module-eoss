@@ -132,7 +132,7 @@ Zusammenarbeit +
  - Open Source Projekten
 | Lehr- und Lernformen
 | Präsenzstudium +
-Wissenerarbeitung, Lehrgespräch, Projektarbeit +
+Wissenserarbeitung, Lehrgespräch, Projektarbeit +
 
 Selbststudium +
 Literaturstudium, Videos
