@@ -4,7 +4,7 @@ image:https://upload.wikimedia.org/wikipedia/commons/a/a2/BFH_Logo_deutsch.png[B
 
 === Autor: link:http://twitter.com/MarkusTiede[@MarkusTiede]
 
-=== link:https://semver.org[Version]: 1.0
+=== link:https://semver.org[Version]: 1.0.1
 
 === Gültig ab: HS 2022
 
@@ -55,9 +55,9 @@ offen für Studierende anderer Studiengänge oder Incoming-Studierende (mit Inte
 (öffentlich, für IS-A) 
 | Dieses Modul vermittelt die grundlegenden Konzepte für den Aufbau effektiver Open Source Praktiken in Unternehmen und Behörden. Im Zentrum stehen dabei folgenden Phasen:
 
-•	Verwendung von Open Source Software +
-•	Mitwirkung in bestehenden Open Source Projekten +
-•	Initialisierung und Community Building von eigenen Open Source Projekten +
+•	**Verwendung** von Open Source Software +
+•	**Mitwirkung** in bestehenden Open Source Projekten +
+•	**Initialisierung** und Community Building von eigenen Open Source Projekten +
 
 Eingebettet werden diese Schwerpunktthemen in strategischen Überlegungen, Governance Prozesse und Umsetzungen.
 
@@ -119,8 +119,7 @@ eine Durchführung pro Klasse +
 -	New Project Preparations +
 -	Successful Project Launch & Sustainment +
 
-Methoden +
-[...] +
+https://github.com/digital-sustainability/module-eoss/blob/main/docs/tasks.adoc#tasks[Übungen] +
 
 Praxisfälle +
 https://todogroup.org/guides/#ospo-case-studies +
@@ -129,7 +128,8 @@ Forschungsbezug +
 [...] +
 
 Zusammenarbeit +
-[...]
+ - Inner Source Projekt +
+ - Open Source Projekten
 | Lehr- und Lernformen
 | Präsenzstudium +
 Wissenerarbeitung, Lehrgespräch, Projektarbeit +
@@ -140,32 +140,34 @@ Literaturstudium, Videos
 | Github / Gitlab
 
 | Literatur
-| https://opensourcefriday.com +
+| https://ospo101.org +
 https://todogroup.org +
-https://ospo101.org
+https://opensourcefriday.com +
+https://openpracticelibrary.com +
+https://ossbenchmark.com
 
 | Eingangskompetenzen +
 (Fachkompetenzen und Kompetenzen gemäss Kompetenzmodell BFH-W)
-| Fachkompetenzen: +
+| **Fachkompetenzen** +
 -	grundlegendes Verständnis von Softwareentwicklung +
 -	Business Konzepte +
+
 Kompetenzen gemäss Kompetenzmodell BFH-W: +
 -	[...]
 
 | Vermittelte Kompetenzen +
 (Fachkompetenzen und Kompetenzen gemäss Kompetenzmodell BFH-W)
-| Fachkompetenzen: +
--	build effective processes and strategies for creating new open source projects from scratch +
--	open source previously closed source projects within an organization +
+| **Fachkompetenzen** +
+Establish OSPOs: an open source program office (OSPO) is designed to +
+(1) be the center of competency for an organization's open source operations and structure and +
+(2) put a strategy and set of policies on top of an organization's open source efforts. +
+
 Kompetenzen gemäss Kompetenzmodell BFH-W +
--	[...] +
+-	Problemsolving / Design Thinking (verwandt: Methodenkompetenz) +
 
-https://openpracticelibrary.com +
-
-Problemsolving / Design Thinking (verwandt: Methodenkompetenz) +
--	Agile Methoden +
-  -	link:https://openpracticelibrary.com/practice/definition-of-ready/[Definition of Ready] +
-  -	link:https://openpracticelibrary.com/practice/definition-of-done/[Definition of Done] +
+Agile Methoden +
+-	link:https://openpracticelibrary.com/practice/definition-of-ready/[Definition of Ready] +
+-	link:https://openpracticelibrary.com/practice/definition-of-done/[Definition of Done] +
 
 Kollaboration (verwandt: Sozialkompetenzen) +
 -	Continuous Integration +
@@ -184,20 +186,20 @@ Umgang mit Komplexität +
 | Schnittstellen zu anderen Modulen +
 (zuführende, parallele, weiterführende)
 | Fach-/Methodenmodule +
-•	[...] +
+•	module/wseg - Software Engineering +
 
 Praxistransfermodule +
-•	[...]
+•	SDG1 - Public Sector Trends
 
 | Kompetenznachweis*
 | Unterricht beurteilen +
 •	PC Prüfung mit Safe Exam Browser +
-•	Gewichtung 79% +
+•	Gewichtung 70% +
 •	Hilfsmittel «Zusammenfassung» (max 10 Seiten) +
 •	90 min +
 
 Übung beurteilen +
-•	Abgaben der Übungen (Gewichtung 21% : 7 x 3%) +
+•	Abgaben der Übungen (Gewichtung 30%) +
 |
 |===
 
