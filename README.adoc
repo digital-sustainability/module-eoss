@@ -17,7 +17,7 @@ image:https://upload.wikimedia.org/wikipedia/commons/a/a2/BFH_Logo_deutsch.png[B
 | Open Source Software Management (EOSS)
 
 | Verantwortliches Institut, ggfs. Fachgruppe
-| link:https://www.bfh.ch/en/research/research-areas/public-sector-transformation/[Institut Public Sector Transformation (IPST)]
+| https://www.bfh.ch/en/research/research-areas/public-sector-transformation/[Institut Public Sector Transformation (IPST)], https://www.bfh.ch/de/forschung/forschungsbereiche/digital-sustainability-lab/[Digital Sustainability Lab]
 
 | Studiengang
 | Bachelor of Science Wirtschaftsinformatik (BWI)
@@ -186,10 +186,11 @@ Umgang mit Komplexität +
 | Schnittstellen zu anderen Modulen +
 (zuführende, parallele, weiterführende)
 | Fach-/Methodenmodule +
-•	module/wseg - Software Engineering +
+•	link:https://github.com/digital-sustainability/module-wseg/[module/wseg - Software Engineering] +
+•	link:https://github.com/digital-sustainability/cas-pst/[CAS - Public Sector Transformation] +
 
 Praxistransfermodule +
-•	SDG1 - Public Sector Trends
+•	link:https://github.com/bfh/opensource/blob/main/docs/slides/2022-sdg1-pmpc/content.md[SDG1 - Public Sector Trends]
 
 | Kompetenznachweis*
 | Unterricht beurteilen +
