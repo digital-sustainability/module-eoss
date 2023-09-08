@@ -48,7 +48,7 @@ BFH, **Brückenstrasse 73**, 3007 Bern, **Raum H219**
 ### Tasks
 
 1. Read & prepare: [OSPO 101 - Section 02: Open Source Business Strategy](https://github.com/digital-sustainability/module-eoss-ospo101/blob/main/module2/README.md#section-introducing-open-source-business-models)
-1. Collect questions: https://etherpad.wikimedia.org/p/bfh-ch-module-eoss
+1. Collect questions: https://etherpad.wikimedia.org/p/bfh-ch-module-eoss-hs23
 1. Section 1 Task: [💪 #01.05: License(s) ✅](https://github.com/digital-sustainability/module-eoss-hs23-sandbox/issues/3)
 1. Section 1 Task: [💪 #01.06: Reason(s) ✅](https://github.com/digital-sustainability/module-eoss-hs23-sandbox/issues/4)
 1. Section 2 Task: [💪 #02.01: History ✅](https://github.com/digital-sustainability/module-eoss-hs23-sandbox/issues/5)
@@ -62,7 +62,7 @@ BFH, **Brückenstrasse 73**, 3007 Bern, **Raum H219**
 
 ### Agenda
 - **Recap**: Inputs & Aufgaben "OSPO 101 - Section 01"
-- [offene **Fragen klären**](https://etherpad.wikimedia.org/p/bfh-ch-module-eoss)
+- [offene **Fragen klären**](https://etherpad.wikimedia.org/p/bfh-ch-module-eoss-hs23)
 - **Inputs & Aufgaben "OSPO 101 - Section 02"**
 
 ### Lernziele
@@ -81,7 +81,7 @@ BFH, **Brückenstrasse 73**, 3007 Bern, **Raum H219**
 ### Tasks
 
 1. Read & prepare: [OSPO 101 - Section 03: Effective Open Source Program (OSPO) Management](https://github.com/digital-sustainability/module-eoss-ospo101/blob/main/module3/README.md#open-source-program-offices-ospo-and-your-organization)
-1. Collect questions: https://etherpad.wikimedia.org/p/bfh-ch-module-eoss
+1. Collect questions: https://etherpad.wikimedia.org/p/bfh-ch-module-eoss-hs23
 1. Section 2 Task: [💪 #02.03: Strategy ✅](https://github.com/digital-sustainability/module-eoss-hs23-sandbox/issues/7) - Analyse, document and (be able to) present your business
 
 ## Treffen 3
@@ -94,7 +94,7 @@ https://bbb.ch-open.ch/b/mar-ttf-4g4
 
 ### Agenda
 - **Recap**: Inputs & Aufgaben "OSPO 101 - Section 02"
-- [offene **Fragen klären**](https://etherpad.wikimedia.org/p/bfh-ch-module-eoss)
+- [offene **Fragen klären**](https://etherpad.wikimedia.org/p/bfh-ch-module-eoss-hs23)
 - **Inputs & Aufgaben "OSPO 101 - Section 03"**
 
 ### Lernziele
@@ -111,7 +111,7 @@ https://bbb.ch-open.ch/b/mar-ttf-4g4
 ### Tasks
 
 1. Read & prepare: [OSPO 101 - Section 04: Open Source Development Practices](https://github.com/digital-sustainability/module-eoss-ospo101/blob/main/module4/README.md#effective-open-source-development--participation)
-1. Collect questions: https://etherpad.wikimedia.org/p/bfh-ch-module-eoss
+1. Collect questions: https://etherpad.wikimedia.org/p/bfh-ch-module-eoss-hs23
 1. Section 2 Task: 💪 #02.03: Strategy ✅ - Finish: Analyse, document and (be able to) present (at next exchange on-site) your business
 
 ## Treffen 4
@@ -125,7 +125,7 @@ BFH, **Brückenstrasse 73**, 3007 Bern, **Raum H219**
 ### Agenda
 - ~11 individual #02.03 presentations of ~5 minutes (2 x 45 minutes for presentation slot)
 - **Recap**: Inputs & Aufgaben "OSPO 101 - Section 03"
-- [offene **Fragen klären**](https://etherpad.wikimedia.org/p/bfh-ch-module-eoss)
+- [offene **Fragen klären**](https://etherpad.wikimedia.org/p/bfh-ch-module-eoss-hs23)
 - **Inputs & Aufgaben "OSPO 101 - Section 04"**
 
 ### Lernziele
@@ -142,7 +142,7 @@ BFH, **Brückenstrasse 73**, 3007 Bern, **Raum H219**
 ### Tasks
 
 1. Read & prepare: [OSPO 101 - Section 05: Open Source Licensing and Compliance Basics](https://github.com/digital-sustainability/module-eoss-ospo101/blob/main/module5/README.md)
-1. Collect questions: https://etherpad.wikimedia.org/p/bfh-ch-module-eoss
+1. Collect questions: https://etherpad.wikimedia.org/p/bfh-ch-module-eoss-hs23
 1. Section 4 Tasks: 
   - 💪 #04.01: Pull Request #2 ✅
   - 💪 #04.02: Key Takeaway(s) ✅
@@ -159,7 +159,7 @@ https://bbb.ch-open.ch/b/mar-ttf-4g4
 
 ### Agenda
 - **Recap**: Inputs & Aufgaben "OSPO 101 - Section 04"
-- [offene **Fragen klären**](https://etherpad.wikimedia.org/p/bfh-ch-module-eoss)
+- [offene **Fragen klären**](https://etherpad.wikimedia.org/p/bfh-ch-module-eoss-hs23)
 - **Inputs & Aufgaben "OSPO 101 - Section 05"**
 
 ### Lernziele
@@ -176,7 +176,7 @@ https://bbb.ch-open.ch/b/mar-ttf-4g4
 ### Tasks
 
 1. Read & prepare: [OSPO 101 - Section 06: Understanding Upstream Open Source Projects](https://github.com/digital-sustainability/module-eoss-ospo101/blob/main/module6/README.md)
-1. Collect questions: https://etherpad.wikimedia.org/p/bfh-ch-module-eoss
+1. Collect questions: https://etherpad.wikimedia.org/p/bfh-ch-module-eoss-hs23
 1. Section 5 Tasks: 
   - 💪 #05.01: Public Contribution ✅
   - 💪 #05.02: Public Pull Request ✅
@@ -192,7 +192,7 @@ BFH, **Brückenstrasse 73**, 3007 Bern, **Raum H219**
 
 ### Agenda
 - **Recap**: Inputs & Aufgaben "OSPO 101 - Section 05"
-- [offene **Fragen klären**](https://etherpad.wikimedia.org/p/bfh-ch-module-eoss)
+- [offene **Fragen klären**](https://etherpad.wikimedia.org/p/bfh-ch-module-eoss-hs23)
 - **Inputs & Aufgaben "OSPO 101 - Section 06"**
 
 ### Lernziele
@@ -208,7 +208,7 @@ BFH, **Brückenstrasse 73**, 3007 Bern, **Raum H219**
 ### Tasks
 
 1. Read & prepare: [OSPO 101 - Section 07: Creating Open Source Projects](https://github.com/digital-sustainability/module-eoss-ospo101/blob/main/module7/README.md)
-1. Collect questions: https://etherpad.wikimedia.org/p/bfh-ch-module-eoss
+1. Collect questions: https://etherpad.wikimedia.org/p/bfh-ch-module-eoss-hs23
 1. Section 6 Tasks: 
   - 💪 #06.01: Semantic Versioning ✅
   - 💪 #06.02: Contribution model ✅
@@ -224,7 +224,7 @@ https://bbb.ch-open.ch/b/mar-ttf-4g4
 
 ### Agenda
 - **Recap**: Inputs & Aufgaben "OSPO 101 - Section 06"
-- [offene **Fragen klären**](https://etherpad.wikimedia.org/p/bfh-ch-module-eoss)
+- [offene **Fragen klären**](https://etherpad.wikimedia.org/p/bfh-ch-module-eoss-hs23)
 - **Inputs "OSPO 101 - Section 07"**
 
 ### Lernziele
