@@ -27,7 +27,7 @@ Zur Vorbereitung auf unser erstes Treffen bitte ich Sie, die folgende Aufgaben z
 ## Treffen 1
 
 ### Zeit & Ort
-**Fr, 30. September 2022, 12.35 - 16.00h**
+**Fr, 29. September 2023, 12.35 - 16.00h**
 
 BFH, **Brückenstrasse 73**, 3007 Bern, **Raum H219**
 
@@ -43,20 +43,20 @@ BFH, **Brückenstrasse 73**, 3007 Bern, **Raum H219**
 
 ## Selbstlernphase 1
 
-30. September - 14. Oktober 2022
+`30. September - 05. Oktober 2023`
 
 ### Tasks
 
 1. Read & prepare: [OSPO 101 - Section 02: Open Source Business Strategy](https://github.com/digital-sustainability/module-eoss-ospo101/blob/main/module2/README.md#section-introducing-open-source-business-models)
 1. Collect questions: https://etherpad.wikimedia.org/p/bfh-ch-module-eoss
-1. Section 1 Task: [💪 #01.05: License(s) ✅](https://github.com/digital-sustainability/module-eoss-hs22-sandbox/issues/3)
-1. Section 1 Task: [💪 #01.06: Reason(s) ✅](https://github.com/digital-sustainability/module-eoss-hs22-sandbox/issues/4)
-1. Section 2 Task: [💪 #02.01: History ✅](https://github.com/digital-sustainability/module-eoss-hs22-sandbox/issues/5)
+1. Section 1 Task: [💪 #01.05: License(s) ✅](https://github.com/digital-sustainability/module-eoss-hs23-sandbox/issues/3)
+1. Section 1 Task: [💪 #01.06: Reason(s) ✅](https://github.com/digital-sustainability/module-eoss-hs23-sandbox/issues/4)
+1. Section 2 Task: [💪 #02.01: History ✅](https://github.com/digital-sustainability/module-eoss-hs23-sandbox/issues/5)
 
 ## Treffen 2
 
 ### Zeit & Ort
-**Fr, 14. Oktober 2022, 12.35 - 16.00h**
+**Fr, 06. Oktober 2023, 12.35 - 16.00h**
 
 BFH, **Brückenstrasse 73**, 3007 Bern, **Raum H219**
 
@@ -76,19 +76,19 @@ BFH, **Brückenstrasse 73**, 3007 Bern, **Raum H219**
 
 ## Selbstlernphase 2
 
-14.-28. Oktober 2022
+`07. - 19. Oktober 2023`
 
 ### Tasks
 
 1. Read & prepare: [OSPO 101 - Section 03: Effective Open Source Program (OSPO) Management](https://github.com/digital-sustainability/module-eoss-ospo101/blob/main/module3/README.md#open-source-program-offices-ospo-and-your-organization)
 1. Collect questions: https://etherpad.wikimedia.org/p/bfh-ch-module-eoss
-1. Section 2 Task: [💪 #02.03: Strategy ✅](https://github.com/digital-sustainability/module-eoss-hs22-sandbox/issues/7) - Analyse, document and (be able to) present your business
+1. Section 2 Task: [💪 #02.03: Strategy ✅](https://github.com/digital-sustainability/module-eoss-hs23-sandbox/issues/7) - Analyse, document and (be able to) present your business
 
 ## Treffen 3
 
 ### Zeit & Ort
 
-**Fr, 28. Oktober 2022, 12.35 - 16.00h**
+**Fr, 20. Oktober 2023, 12.35 - 16.00h**
 
 https://bbb.ch-open.ch/b/mar-ttf-4g4
 
@@ -106,7 +106,7 @@ https://bbb.ch-open.ch/b/mar-ttf-4g4
 
 ## Selbstlernphase 3
 
-28. Oktober - 11. November 2022
+`21. Oktober - 02. November 2023`
 
 ### Tasks
 
@@ -118,7 +118,7 @@ https://bbb.ch-open.ch/b/mar-ttf-4g4
 
 ### Zeit & Ort
 
-**Fr, 11. November 2022, 12.35 - 16.00h**
+**Fr, 03. November 2023, 12.35 - 16.00h**
 
 BFH, **Brückenstrasse 73**, 3007 Bern, **Raum H219**
 
@@ -137,7 +137,7 @@ BFH, **Brückenstrasse 73**, 3007 Bern, **Raum H219**
 
 ## Selbstlernphase 4
 
-11.-25. November 2022
+`04. - 16. November 2023`
 
 ### Tasks
 
@@ -153,7 +153,7 @@ BFH, **Brückenstrasse 73**, 3007 Bern, **Raum H219**
 
 ### Zeit & Ort
 
-**Fr, 25. November 2022, 12.35 - 16.00h**
+**Fr, 17. November 2023, 12.35 - 16.00h**
 
 https://bbb.ch-open.ch/b/mar-ttf-4g4
 
@@ -171,7 +171,7 @@ https://bbb.ch-open.ch/b/mar-ttf-4g4
 
 ## Selbstlernphase 5
 
-25. November - 09. Dezember 2022
+`18. - 30. November 2023`
 
 ### Tasks
 
@@ -186,7 +186,7 @@ https://bbb.ch-open.ch/b/mar-ttf-4g4
 
 ### Zeit & Ort
 
-**Fr, 09. Dezember 2022, 12.35 - 16.00h**
+**Fr, 01. Dezember 2023, 12.35 - 16.00h**
 
 BFH, **Brückenstrasse 73**, 3007 Bern, **Raum H219**
 
@@ -203,7 +203,7 @@ BFH, **Brückenstrasse 73**, 3007 Bern, **Raum H219**
 
 ## Selbstlernphase 6
 
-09.-23. Dezember 2022
+`02. - 14. Dezember 2023`
 
 ### Tasks
 
@@ -218,7 +218,7 @@ BFH, **Brückenstrasse 73**, 3007 Bern, **Raum H219**
 
 ### Zeit & Ort
 
-**Fr, 23. Dezember 2022, 12.35 - 16.00h**
+**Fr, 15. Dezember 2023, 12.35 - 16.00h**
 
 https://bbb.ch-open.ch/b/mar-ttf-4g4
 
