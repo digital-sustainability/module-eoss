@@ -90,7 +90,7 @@ BFH, **Brückenstrasse 73**, 3007 Bern, **Raum P111**
 
 **Fr, 20. Oktober 2023, 12.35 - 16.00h**
 
-https://bbb.ch-open.ch/b/mar-ttf-4g4
+https://bbb.ch-open.ch/rooms/k9y-l1b-yae-byk/join
 
 ### Agenda
 - **Recap**: Inputs & Aufgaben "OSPO 101 - Section 02"
@@ -155,7 +155,7 @@ BFH, **Brückenstrasse 73**, 3007 Bern, **Raum P111**
 
 **Fr, 17. November 2023, 12.35 - 16.00h**
 
-https://bbb.ch-open.ch/b/mar-ttf-4g4
+https://bbb.ch-open.ch/rooms/k9y-l1b-yae-byk/join
 
 ### Agenda
 - **Recap**: Inputs & Aufgaben "OSPO 101 - Section 04"
@@ -220,7 +220,7 @@ BFH, **Brückenstrasse 73**, 3007 Bern, **Raum P111**
 
 **Fr, 15. Dezember 2023, 12.35 - 16.00h**
 
-https://bbb.ch-open.ch/b/mar-ttf-4g4
+https://bbb.ch-open.ch/rooms/k9y-l1b-yae-byk/join
 
 ### Agenda
 - **Recap**: Inputs & Aufgaben "OSPO 101 - Section 06"
