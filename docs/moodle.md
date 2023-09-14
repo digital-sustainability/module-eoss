@@ -29,7 +29,7 @@ Zur Vorbereitung auf unser erstes Treffen bitte ich Sie, die folgende Aufgaben z
 ### Zeit & Ort
 **Fr, 29. September 2023, 12.35 - 16.00h**
 
-BFH, **Brückenstrasse 73**, 3007 Bern, **Raum P111**
+[BFH, **Brückenstrasse 73**, 3007 Bern, **Raum P111**](https://www.bfh.ch/de/ueber-die-bfh/standorte-infrastruktur/standorte/bern-brueckenstrasse/)
 
 ### Agenda
 - Gegenseitiges **Kennenlernen**
@@ -58,7 +58,7 @@ BFH, **Brückenstrasse 73**, 3007 Bern, **Raum P111**
 ### Zeit & Ort
 **Fr, 06. Oktober 2023, 12.35 - 16.00h**
 
-BFH, **Brückenstrasse 73**, 3007 Bern, **Raum P111**
+[BFH, **Brückenstrasse 73**, 3007 Bern, **Raum P111**](https://www.bfh.ch/de/ueber-die-bfh/standorte-infrastruktur/standorte/bern-brueckenstrasse/)
 
 ### Agenda
 - **Recap**: Inputs & Aufgaben "OSPO 101 - Section 01"
@@ -120,7 +120,7 @@ https://bbb.ch-open.ch/rooms/k9y-l1b-yae-byk/join
 
 **Fr, 03. November 2023, 12.35 - 16.00h**
 
-BFH, **Brückenstrasse 73**, 3007 Bern, **Raum P111**
+[BFH, **Brückenstrasse 73**, 3007 Bern, **Raum P111**](https://www.bfh.ch/de/ueber-die-bfh/standorte-infrastruktur/standorte/bern-brueckenstrasse/)
 
 ### Agenda
 - ~11 individual #02.03 presentations of ~5 minutes (2 x 45 minutes for presentation slot)
@@ -188,7 +188,7 @@ https://bbb.ch-open.ch/rooms/k9y-l1b-yae-byk/join
 
 **Fr, 01. Dezember 2023, 12.35 - 16.00h**
 
-BFH, **Brückenstrasse 73**, 3007 Bern, **Raum P111**
+[BFH, **Brückenstrasse 73**, 3007 Bern, **Raum P111**](https://www.bfh.ch/de/ueber-die-bfh/standorte-infrastruktur/standorte/bern-brueckenstrasse/)
 
 ### Agenda
 - **Recap**: Inputs & Aufgaben "OSPO 101 - Section 05"
