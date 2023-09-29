@@ -198,12 +198,12 @@
 
 == Exam Layout
  - Init
-   * 21% + 79% + 1.5% = 101.5% 
+   * 30% + 70% + 1.5% = 101.5% 
    * link:https://github.com/digital-sustainability/module-eoss-ospo101#course-outline[OSPO 101 has 7 Modules]
  - Content
    * 7 x 8% : ca. 2-6 Fragen pro Modul >> ca. 14-42 Fragen >> 56%
-   * 23% : ca. 8-16 Fragen übergreifend (Slides and Tasks)
-   * ca. 22 - 58 Fragen - ca. 2-3 Minuten pro Frage
+   * 14% : ca. 7-14 Fragen übergreifend (Slides and Tasks)
+   * ca. 21-56 Fragen - ca. 2-3 Minuten pro Frage
  - Format
    * Sprache der Fragen: Englisch
    * PC Prüfung mit Safe Exam Browser
