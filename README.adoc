@@ -53,7 +53,7 @@ offen für Studierende anderer Studiengänge oder Incoming-Studierende (mit Inte
 
 | Kurzbeschreibung +
 (öffentlich, für IS-A) 
-| Dieses Modul vermittelt die grundlegenden Konzepte für den Aufbau effektiver Open Source Praktiken in Unternehmen und Behörden. Im Zentrum stehen dabei folgenden Phasen:
+| Dieses Modul vermittelt die grundlegenden Konzepte für den Aufbau effektiver Open Source Praktiken in Unternehmen und Organisationen. Im Zentrum stehen dabei folgenden Phasen:
 
 •	**Verwendung** von Open Source Software +
 •	**Mitwirkung** in bestehenden Open Source Projekten +
