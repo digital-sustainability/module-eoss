@@ -1,4 +1,4 @@
-image:https://upload.wikimedia.org/wikipedia/commons/a/a2/BFH_Logo_deutsch.png[BFH]
+link:https://commons.wikimedia.org/wiki/File:Berner_Fachhochschule_Logo_small.svg[image:https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Berner_Fachhochschule_Logo_small.svg/128px-Berner_Fachhochschule_Logo_small.svg.png[BFH]]
 
 = Modulkonzept Open Source Software Management (EOSS)
 
