@@ -47,7 +47,7 @@
 
 |#link:content/02/[02].01
 |5‰ 
-|link:content/02/02.md[#1 Pull Request]
+|link:content/02/02.md[Issue(s)]
 
 |#link:content/02/[02].02
 |5‰ 
