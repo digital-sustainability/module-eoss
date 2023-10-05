@@ -101,7 +101,7 @@
 
 |#link:content/03/[03].02
 |10‰ 
-|link:content/03/04.md[Author(s)]
+|link:content/03/04.md[Author(s) & DCO]
 |03.11.2023
 
 |#link:content/03/[03].03
