@@ -100,7 +100,7 @@
 |03.11.2023
 
 |#link:content/03/[03].02
-|5‰ 
+|10‰ 
 |link:content/03/04.md[Author(s)]
 |03.11.2023
 
@@ -126,8 +126,8 @@
 
 |
 |
-|30‰
-|+=95‰
+|35‰
+|+=100‰
 |===
 
 == Module 4
@@ -167,7 +167,7 @@
 |
 |
 |40‰
-|+=135‰
+|+=140‰
 |===
 
 == Module 5
@@ -180,13 +180,13 @@
 |Deadline
 
 |#link:content/05/[05].01
-|20‰ 
-|link:content/05/05.md[Public Contribution]
+|20‰ + 30‰ 
+|link:content/05/05.md[1+1 Public Contribution]
 |15.12.2023
 
 |#link:content/05/[05].02
-|30‰ 
-|link:content/05/07.md[Public Pull Request]
+|30‰ + 50‰
+|link:content/05/07.md[1+1 Public Pull Request]
 |15.12.2023
 
 |#link:content/05/[05].03
@@ -196,8 +196,8 @@
 
 |
 |
-|50‰
-|+=185‰
+|130‰
+|+=270‰
 |===
 
 == Module 6
@@ -227,7 +227,7 @@
 |
 |
 |30‰
-|+=215‰
+|+=300‰
 |===
 
 == Timing
