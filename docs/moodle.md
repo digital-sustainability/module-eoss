@@ -89,7 +89,7 @@ Zur Vorbereitung auf unser erstes Treffen bitte ich Sie, die folgende Aufgaben z
 
 **Fr, 20. Oktober 2023, 12.35 - 16.00h**
 
-https://bbb.ch-open.ch/rooms/k9y-l1b-yae-byk/join
+[BFH, **Brückenstrasse 73**, 3007 Bern, **Raum P111**](https://www.bfh.ch/de/ueber-die-bfh/standorte-infrastruktur/standorte/bern-brueckenstrasse/)
 
 ### Agenda
 - **Recap**: Inputs & Aufgaben "OSPO 101 - Section 02"
@@ -154,7 +154,7 @@ https://bbb.ch-open.ch/rooms/k9y-l1b-yae-byk/join
 
 **Fr, 17. November 2023, 12.35 - 16.00h**
 
-https://bbb.ch-open.ch/rooms/k9y-l1b-yae-byk/join
+[BFH, **Brückenstrasse 73**, 3007 Bern, **Raum P111**](https://www.bfh.ch/de/ueber-die-bfh/standorte-infrastruktur/standorte/bern-brueckenstrasse/)
 
 ### Agenda
 - **Recap**: Inputs & Aufgaben "OSPO 101 - Section 04"
@@ -219,7 +219,7 @@ https://bbb.ch-open.ch/rooms/k9y-l1b-yae-byk/join
 
 **Fr, 15. Dezember 2023, 12.35 - 16.00h**
 
-https://bbb.ch-open.ch/rooms/k9y-l1b-yae-byk/join
+[BFH, **Brückenstrasse 73**, 3007 Bern, **Raum P111**](https://www.bfh.ch/de/ueber-die-bfh/standorte-infrastruktur/standorte/bern-brueckenstrasse/)
 
 ### Agenda
 - **Recap**: Inputs & Aufgaben "OSPO 101 - Section 06"
