@@ -1,8 +1,15 @@
 @startuml
-Title Timing
+Title Semester - Timing
 header: HS23
 footer: "https://github.com/digital-sustainability/module-eoss/blob/main/docs/timing.puml"
 caption CC-BY-4.0
+
+legend
+X-Axis: (relative) week numbers
+
+SLP Selbstlernphase
+OSPO Open Source Program Office - https://ospo101.org
+end legend
 
 concise "Module EOSS" as eoss
 robust "Studierende" as studi
@@ -30,6 +37,7 @@ studi is OSPO-101.2
 dozent -> eoss: Treffen 2
 eoss is "2 Business"
 tasks is "Teamwork: Inner-Sourcing"
+@7 <-> @11 : {10 x 5-10 min Vorstellung(en)}
 
 @+1
 studi is OSPO-101.3
@@ -91,11 +99,11 @@ highlight 8 to 9 #lightgreen : SLP4
 highlight 10 to 11 #lightgreen : SLP5
 highlight 12 to 13 #lightgreen : SLP6
 
-highlight 1 to 2 #lightblue : Tasks-1
-highlight 3 to 4 #lightblue : Tasks-2
-highlight 5 to 6 #lightblue : Tasks-3
-highlight 7 to 8 #lightblue : Tasks-4
-highlight 9 to 10 #lightblue : Tasks-5
-highlight 11 to 12 #lightblue : Tasks-6
+highlight 1 to 2 #lightblue : Tasks
+highlight 3 to 4 #lightblue : Tasks
+highlight 5 to 6 #lightblue : Tasks
+highlight 7 to 8 #lightblue : Tasks
+highlight 9 to 10 #lightblue : Tasks
+highlight 11 to 12 #lightblue : Tasks
 
 @enduml
