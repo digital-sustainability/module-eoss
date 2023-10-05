@@ -206,6 +206,10 @@ Praxistransfermodule +
 
 == Anhang
 
+=== Timing
+
+image::http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/digital-sustainability/module-eoss/main/docs/timing.puml[timing]
+
 === Zweck des Dokuments
 
 Das Modulkonzept dient dem gemeinsamen Verständnis aller an einem Modul Beteiligen bezüglich Inhalte, Didaktik und Tools. Es ist das zentrale Dokument beim Aufbau und bei Überarbeitungen von Modulen. Darüber hinaus hat es aber weitere Zielgruppen:
