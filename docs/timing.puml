@@ -1,0 +1,101 @@
+@startuml
+Title Timing
+header: HS23
+footer: "https://github.com/digital-sustainability/module-eoss/blob/main/docs/timing.puml"
+caption CC-BY-4.0
+
+concise "Module EOSS" as eoss
+robust "Studierende" as studi
+concise "Tasks" as tasks
+concise "Dozent" as dozent
+scale 1 as 70 pixels
+
+@-1
+studi is EINGESCHRIEBEN
+dozent is supporting
+
+@+1
+tasks is Start
+
+@1
+dozent -> eoss: Treffen 1
+eoss is "1 Kick-Off"
+tasks is Github
+studi is OSPO-101.1
+
+@+1
+studi is OSPO-101.2
+
+@+1
+dozent -> eoss: Treffen 2
+eoss is "2 Business"
+tasks is "Teamwork: Inner-Sourcing"
+
+@+1
+studi is OSPO-101.3
+
+@+1
+dozent -> eoss: Treffen 3
+eoss is "3 Management"
+
+@+1
+studi is OSPO-101.4
+
+@+1
+dozent -> eoss: Treffen 4
+eoss is "4 Development"
+tasks is "2 x Open Source Contributions"
+
+@+1
+studi is OSPO-101.5
+
+@+1
+dozent -> eoss: Treffen 5
+eoss is "5 Compliance"
+
+@+1
+studi is OSPO-101.6
+
+@+1
+dozent -> eoss: Treffen 6
+eoss is "6 Collaboration"
+
+@+1
+studi is OSPO-101.7
+
+@+1
+dozent -> eoss: Treffen 7
+eoss is "7 Starting"
+tasks is FINISHing
+
+@+1
+
+@+1
+eoss is {-}
+tasks is {-}
+
+@+1
+eoss is Vorbereitung
+
+@+1
+dozent is {-}
+
+@+1
+eoss -> studi: Prüfung
+eoss is {-}
+
+highlight 2 to 3 #lightgreen : SLP1
+highlight 4 to 5 #lightgreen : SLP2
+highlight 6 to 7 #lightgreen : SLP3
+highlight 8 to 9 #lightgreen : SLP4
+highlight 10 to 11 #lightgreen : SLP5
+highlight 12 to 13 #lightgreen : SLP6
+
+highlight 1 to 2 #lightblue : Tasks-1
+highlight 3 to 4 #lightblue : Tasks-2
+highlight 5 to 6 #lightblue : Tasks-3
+highlight 7 to 8 #lightblue : Tasks-4
+highlight 9 to 10 #lightblue : Tasks-5
+highlight 11 to 12 #lightblue : Tasks-6
+
+@enduml
