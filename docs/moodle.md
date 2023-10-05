@@ -51,7 +51,6 @@ Zur Vorbereitung auf unser erstes Treffen bitte ich Sie, die folgende Aufgaben z
 1. Collect questions: https://etherpad.wikimedia.org/p/bfh-ch-module-eoss-hs23
 1. Section 1 Task: [💪 #01.05: License(s) ✅](https://github.com/digital-sustainability/module-eoss-hs23-sandbox/issues/3)
 1. Section 1 Task: [💪 #01.06: Reason(s) ✅](https://github.com/digital-sustainability/module-eoss-hs23-sandbox/issues/4)
-1. Section 2 Task: [💪 #02.01: History ✅](https://github.com/digital-sustainability/module-eoss-hs23-sandbox/issues/5)
 
 ## Treffen 2
 
@@ -71,8 +70,8 @@ Zur Vorbereitung auf unser erstes Treffen bitte ich Sie, die folgende Aufgaben z
   - **Strategy**
   - **Policies**
   - OSPO **Introduction**
-- **Pull Request(s) auf GitHub**
-- **BigBlueButton** Introduction & Usage
+- **Issue(s) auf GitHub**
+- **Open Source Alternativen:** Introduction & Usage
 
 ## Selbstlernphase 2
 

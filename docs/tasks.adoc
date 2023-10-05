@@ -46,24 +46,24 @@
 |Topic & Link
 
 |#link:content/02/[02].01
-|5‰ 
-|link:content/02/02.md[Issue(s)]
+|10‰ 
+|link:content/02/02.md[Alternative(n)]
 
 |#link:content/02/[02].02
 |5‰ 
-|link:content/02/06.md[Business Model]
+|link:content/02/04.md[Issue(s)]
 
 |#link:content/02/[02].03
 |5‰ 
-|link:content/02/08.md[Strategy]
+|link:content/02/08.md[Business]
 
 |#link:content/02/[02].04
 |5‰ 
-|link:content/02/10.md[Policies]
+|link:content/02/10.md[Strategy]
 
 |#link:content/02/[02].05
 |5‰ 
-|link:content/02/12.md[BBB]
+|link:content/02/12.md[Policies]
 
 |
 |25‰
