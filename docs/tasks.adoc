@@ -231,7 +231,7 @@
 |===
 
 == Timing
- - Tasks: `31.12.2022`
+ - Tasks: `29.12.2022`
    * 👨‍🏫-Feedback: `07.01.2023`
    * 🧑‍🎓-Q&A via Pull-Request(s) on link:https://github.com/digital-sustainability/module-eoss-hs23-sandbox/blob/main/tasks.adoc[tasks.adoc]: `14.01.2023`
  - Moodle-Exam: `19.01.2023`
