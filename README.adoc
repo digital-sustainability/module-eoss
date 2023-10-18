@@ -1,5 +1,7 @@
 link:https://commons.wikimedia.org/wiki/File:Berner_Fachhochschule_Logo_small.svg[image:https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Berner_Fachhochschule_Logo_small.svg/128px-Berner_Fachhochschule_Logo_small.svg.png[BFH]]
 
+link:https://gitpod.io#https://github.com/digital-sustainability/module-eoss[image:https://gitpod.io/button/open-in-gitpod.svg[Open IDE]]
+
 = Modulkonzept Open Source Software Management (EOSS)
 
 === Autor: link:http://www.mtiede.de[MarkusTiede]
