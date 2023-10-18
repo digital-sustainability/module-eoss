@@ -122,13 +122,13 @@ Zur Vorbereitung auf unser erstes Treffen bitte ich Sie, die folgende Aufgaben z
 [BFH, **Brückenstrasse 73**, 3007 Bern, **Raum P111**](https://www.bfh.ch/de/ueber-die-bfh/standorte-infrastruktur/standorte/bern-brueckenstrasse/)
 
 ### Agenda
-- ~11 individual #02.03 presentations of ~5 minutes (2 x 45 minutes for presentation slot)
+- ~12 individual #02.03 presentations of ~5-7 minutes (2 x 45 minutes for presentation slot)
 - **Recap**: Inputs & Aufgaben "OSPO 101 - Section 03"
 - [offene **Fragen klären**](https://etherpad.wikimedia.org/p/bfh-ch-module-eoss-hs23)
 - **Inputs & Aufgaben "OSPO 101 - Section 04"**
 
 ### Lernziele
-- Present business model, open strategy and policies of an existing business + details & feedbacks
+- **Present business model, open strategy and policies** of an existing business + details & feedbacks
 - Inhalte [**OSPO 101 - Section 04: Open Source Development Practices**](https://github.com/digital-sustainability/module-eoss-ospo101/blob/main/module4/README.md#effective-open-source-development--participation)
   - Effective Open Source **Development & Participation**
   - The Role of **Continuous Integration & Testing**
