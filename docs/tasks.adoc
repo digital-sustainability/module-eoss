@@ -230,6 +230,20 @@
 |+=300‰
 |===
 
+
+.Code to retrieve the tasks content
+[source,bash]
+----
+gh issue view --json comments https://github.com/digital-sustainability/module-eoss/issues/18 | jq -r '.[].[].author.login' | sort --ignore-case -u
+
+gh issue view --json comments https://github.com/digital-sustainability/module-eoss/issues/18 | jq -r '.' > tasks/content/01_01.txt
+gh issue view --json comments https://github.com/digital-sustainability/module-eoss-hs23-sandbox/issues/1 | jq -r '.' > tasks/content/01_02.txt
+gh issue view --json comments https://github.com/digital-sustainability/module-eoss-hs23-sandbox/issues/2 | jq -r '.' > tasks/content/01_03.txt
+gh issue view --json comments https://github.com/digital-sustainability/module-eoss-hs23-sandbox/issues/3 | jq -r '.' > tasks/content/01_04.txt
+gh issue view --json comments https://github.com/digital-sustainability/module-eoss-hs23-sandbox/issues/4 | jq -r '.' > tasks/content/01_05.txt
+gh issue view --json comments https://github.com/digital-sustainability/module-eoss-hs23-sandbox/issues/5 | jq -r '.' > tasks/content/01_06.txt
+----
+
 == Timing
  - Tasks: `29.12.2022`
    * 👨‍🏫-Feedback: `07.01.2023`
