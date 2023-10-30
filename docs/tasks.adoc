@@ -140,26 +140,21 @@
 |Deadline
 
 |#link:content/04/[04].01
-|5‰ 
-|link:content/04/02.md[#2 Pull Request]
+|10‰ 
+|link:content/04/02.md[Key Takeaway(s)]
 |01.12.2023
 
 |#link:content/04/[04].02
 |5‰ 
-|link:content/04/11.md[Key Takeaway(s)]
-|01.12.2023
-
-|#link:content/04/[04].03
-|5‰ 
 |link:content/04/11.md#boy-scout-rule-[Boy Scout Rule]
 |01.12.2023
 
-|#link:content/04/[04].04
+|#link:content/04/[04].03
 |10‰ 
 |link:content/04/11.md#contribution-[Contribution]
 |01.12.2023
 
-|#link:content/04/[04].05
+|#link:content/04/[04].04
 |15‰ 
 |Content of todays <Chosen business>.md file
 |01.12.2023
