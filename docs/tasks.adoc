@@ -146,12 +146,12 @@
 
 |#link:content/04/[04].02
 |5‰ 
-|link:content/04/11.md#boy-scout-rule-[Boy Scout Rule]
+|link:content/04/12.md#boy-scout-rule-[Boy Scout Rule]
 |01.12.2023
 
 |#link:content/04/[04].03
 |10‰ 
-|link:content/04/11.md#contribution-[Contribution]
+|link:content/04/12.md#contribution-[Contribution]
 |01.12.2023
 
 |#link:content/04/[04].04
