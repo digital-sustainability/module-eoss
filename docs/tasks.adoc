@@ -176,17 +176,17 @@
 
 |#link:content/05/[05].01
 |20‰ + 30‰ 
-|link:content/05/05.md[1+1 Public Contribution]
+|link:content/05/06.md[1+1 Public Contribution]
 |15.12.2023
 
 |#link:content/05/[05].02
 |30‰ + 50‰
-|link:content/05/07.md[1+1 Public Pull Request]
+|link:content/05/08.md[1+1 Public Pull Request]
 |15.12.2023
 
 |#link:content/05/[05].03
 |+15‰ 
-|link:content/05/11.md[(Meta) Change(s)]
+|link:content/05/12.md[(Meta) Change(s)]
 |15.12.2023
 
 |
