@@ -240,12 +240,6 @@ gh issue view --json comments https://github.com/digital-sustainability/module-e
 gh issue view --json comments https://github.com/digital-sustainability/module-eoss-hs23-sandbox/issues/5 | jq -r '.' > tasks/content/01_06.txt
 ----
 
-== Timing
- - Tasks: `29.12.2022`
-   * 👨‍🏫-Feedback: `07.01.2023`
-   * 🧑‍🎓-Q&A via Pull-Request(s) on link:https://github.com/digital-sustainability/module-eoss-hs23-sandbox/blob/main/tasks.adoc[tasks.adoc]: `14.01.2023`
- - Moodle-Exam: `19.01.2023`
-
 == Exam Layout
  - Init
    * 30% + 70% + 1.5% = 101.5% 
