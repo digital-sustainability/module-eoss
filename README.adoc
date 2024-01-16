@@ -199,6 +199,7 @@ Praxistransfermodule +
 •	PC Prüfung mit Safe Exam Browser +
 •	Gewichtung 70% +
 •	Hilfsmittel «Zusammenfassung» (max 10 Seiten) +
+•	gedrucktes Wörterbuch Muttersprache <–> Sprache Kompetenznachweis (EN) +
 •	90 min +
 
 Übung beurteilen +
