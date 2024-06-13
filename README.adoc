@@ -138,8 +138,6 @@ Wissenserarbeitung, Lehrgespräch, Projektarbeit +
 
 Selbststudium +
 Literaturstudium, Videos
-| Verwendete Tools
-| Github / Gitlab
 
 | Literatur
 | https://ospo101.org +
@@ -154,8 +152,9 @@ https://ossbenchmark.com
 -	grundlegendes Verständnis von Softwareentwicklung +
 -	Business Konzepte +
 
-Kompetenzen gemäss Kompetenzmodell BFH-W: +
--	[...]
+**Kompetenzen gemäss Kompetenzmodell BFH-W**: +
+- Kompetenzen der Berufsmaturität der Typen «Technik, Architektur, Life Sciences» oder +
+- «Wirtschaft und Dienstleistungen» +
 
 | Vermittelte Kompetenzen +
 (Fachkompetenzen und Kompetenzen gemäss Kompetenzmodell BFH-W)
@@ -196,14 +195,19 @@ Praxistransfermodule +
 
 | Kompetenznachweis*
 | Unterricht beurteilen +
-•	PC Prüfung mit Safe Exam Browser +
+•	PC Prüfung mit Safe Exam Browser am Semesterende +
 •	Gewichtung 60% +
 •	Hilfsmittel «Zusammenfassung» (max 10 Seiten) +
 •	gedrucktes Wörterbuch Muttersprache <–> Sprache Kompetenznachweis (EN) +
 •	90 min +
 
 Übung beurteilen +
-•	Abgaben der Übungen (Gewichtung 40%) +
+•	Abgaben der Übungen während des Semesters (Gewichtung 40%) +
+•	eine Gruppenbewertung, ansonsten Einzelbewertungen +
+
+| Bemerkung
+| Sämtliche Inhalte sind unter https://github.com/digital-sustainability/module-eoss unter CC-BY 4.0 als link:https://virtuelleakademie.ch/knowledge-base/oer-policy-der-bfh/[OER] veröffentlicht.
+
 |
 |===
 
