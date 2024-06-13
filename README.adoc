@@ -197,13 +197,13 @@ Praxistransfermodule +
 | Kompetenznachweis*
 | Unterricht beurteilen +
 •	PC Prüfung mit Safe Exam Browser +
-•	Gewichtung 70% +
+•	Gewichtung 60% +
 •	Hilfsmittel «Zusammenfassung» (max 10 Seiten) +
 •	gedrucktes Wörterbuch Muttersprache <–> Sprache Kompetenznachweis (EN) +
 •	90 min +
 
 Übung beurteilen +
-•	Abgaben der Übungen (Gewichtung 30%) +
+•	Abgaben der Übungen (Gewichtung 40%) +
 |
 |===
 
