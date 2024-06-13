@@ -57,9 +57,9 @@ offen für Studierende anderer Studiengänge oder Incoming-Studierende (mit Inte
 (öffentlich, für IS-A) 
 | Dieses Modul vermittelt die grundlegenden Konzepte für den Aufbau effektiver Open Source Praktiken in Unternehmen und Organisationen. Im Zentrum stehen dabei folgenden Phasen:
 
-•	**Verwendung** von Open Source Software +
-•	**Mitwirkung** in bestehenden Open Source Projekten +
-•	**Initialisierung** und Community Building von eigenen Open Source Projekten +
+- **Verwendung** von Open Source Software +
+- **Mitwirkung** in bestehenden Open Source Projekten +
+- **Initialisierung** und Community Building von eigenen Open Source Projekten +
 
 Eingebettet werden diese Schwerpunktthemen in strategischen Überlegungen, Governance Prozesse und Umsetzungen.
 
@@ -187,23 +187,23 @@ Umgang mit Komplexität +
 | Schnittstellen zu anderen Modulen +
 (zuführende, parallele, weiterführende)
 | Fach-/Methodenmodule +
-•	link:https://github.com/digital-sustainability/module-wseg/[module/wseg - Software Engineering] +
-•	link:https://github.com/digital-sustainability/cas-pst/[CAS - Public Sector Transformation] +
+- link:https://github.com/digital-sustainability/module-wseg/[module/wseg - Software Engineering] +
+- link:https://github.com/digital-sustainability/cas-pst/[CAS - Public Sector Transformation] +
 
 Praxistransfermodule +
-•	link:https://github.com/bfh/opensource/blob/main/docs/slides/2022-sdg1-pmpc/content.md[SDG1 - Public Sector Trends]
+- link:https://github.com/bfh/opensource/blob/main/docs/slides/2022-sdg1-pmpc/content.md[SDG1 - Public Sector Trends]
 
 | Kompetenznachweis*
 | Unterricht beurteilen +
-•	PC Prüfung mit Safe Exam Browser am Semesterende +
-•	Gewichtung 60% +
-•	Hilfsmittel «Zusammenfassung» (max 10 Seiten) +
-•	gedrucktes Wörterbuch Muttersprache <–> Sprache Kompetenznachweis (EN) +
-•	90 min +
+- PC Prüfung mit Safe Exam Browser am Semesterende +
+- Gewichtung 60% +
+- Hilfsmittel «Zusammenfassung» (max 10 Seiten) +
+- gedrucktes Wörterbuch Muttersprache <–> Sprache Kompetenznachweis (EN) +
+- 90 min +
 
 Übung beurteilen +
-•	Abgaben der Übungen während des Semesters (Gewichtung 40%) +
-•	eine Gruppenbewertung, ansonsten Einzelbewertungen +
+- Abgaben der Übungen während des Semesters (Gewichtung 40%) +
+- eine Gruppenbewertung, ansonsten Einzelbewertungen +
 
 | Bemerkung
 | Sämtliche Inhalte sind unter https://github.com/digital-sustainability/module-eoss unter CC-BY 4.0 als link:https://virtuelleakademie.ch/knowledge-base/oer-policy-der-bfh/[OER] veröffentlicht.
@@ -221,9 +221,9 @@ image::http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubuse
 
 Das Modulkonzept dient dem gemeinsamen Verständnis aller an einem Modul Beteiligen bezüglich Inhalte, Didaktik und Tools. Es ist das zentrale Dokument beim Aufbau und bei Überarbeitungen von Modulen. Darüber hinaus hat es aber weitere Zielgruppen:
 
-•	Dozierende/WMAs anderer Module: zum Aufbau und zur Abgrenzung von eigenen Modulinhalten, zum Angebot eines ausgewogenen Mixes von didaktischen Methoden sowie für einen koordinierten Einsatz von Tools
-•	Studiengangsleitende: für die Kenntnis von Ansprechpartnern sowie zur Koordination von Modulinhalten, Didaktikvielfalt und Tooleinsatz
-•	Instituts-, Abteilungs- und Fachgruppenleitende: zur Festlegung der Zuständigkeiten, für organisationsübergreifende Zusammenarbeit sowie zur Förderung von Themen der jeweiligen Organisationseinheiten
+- Dozierende/WMAs anderer Module: zum Aufbau und zur Abgrenzung von eigenen Modulinhalten, zum Angebot eines ausgewogenen Mixes von didaktischen Methoden sowie für einen koordinierten Einsatz von Tools
+- Studiengangsleitende: für die Kenntnis von Ansprechpartnern sowie zur Koordination von Modulinhalten, Didaktikvielfalt und Tooleinsatz
+- Instituts-, Abteilungs- und Fachgruppenleitende: zur Festlegung der Zuständigkeiten, für organisationsübergreifende Zusammenarbeit sowie zur Förderung von Themen der jeweiligen Organisationseinheiten
 
 Die Studierenden sind keine direkte Zielgruppe des Modulkonzepts. In der Regel werden Ihnen nur Auszüge aus dem Konzept zur Verfügung gestellt; diese werden in die Modulbeschreibung auf IS-Academia übertragen. Die einzelnen Blöcke der Modulbeschreibung in IS-Academia sollen möglichst direkt aus dem Modulkonzept übernommen werden.
 
