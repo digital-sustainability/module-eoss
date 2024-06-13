@@ -155,14 +155,14 @@
 |01.12.2023
 
 |#link:content/04/[04].04
-|15‰ 
+|25‰ 
 |Content of todays <Chosen business>.md file
 |01.12.2023
 
 |
 |
-|40‰
-|+=140‰
+|50‰
+|+=190‰
 |===
 
 == Module 5
@@ -175,12 +175,12 @@
 |Deadline
 
 |#link:content/05/[05].01
-|20‰ + 50‰ 
+|20‰ + 40‰ 
 |link:content/05/06.md[1+1 Public Contribution]
 |15.12.2023
 
 |#link:content/05/[05].02
-|50‰ + 100‰
+|40‰ + 80‰
 |link:content/05/08.md[1+1 Public Pull Request]
 |15.12.2023
 
@@ -191,8 +191,8 @@
 
 |
 |
-|220‰
-|+=360‰
+|180‰
+|+=370‰
 |===
 
 == Module 6
@@ -222,7 +222,7 @@
 |
 |
 |30‰
-|+=300‰
+|+=400‰
 |===
 
 == Snippets
