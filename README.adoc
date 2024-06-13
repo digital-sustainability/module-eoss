@@ -6,9 +6,9 @@ link:https://gitpod.io#https://github.com/digital-sustainability/module-eoss[ima
 
 === Autor: link:http://www.mtiede.de[MarkusTiede]
 
-=== link:https://semver.org[Version]: 1.0.1
+=== link:https://semver.org[Version]: 1.0.2
 
-=== Gültig ab: HS 2022
+=== Gültig ab: HS 2024
 
 == Formale Beschreibung
 
