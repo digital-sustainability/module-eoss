@@ -105,8 +105,8 @@
 |03.11.2023
 
 |#link:content/03/[03].03
-|0‰ 
-|link:content/03/08.md[Present 1:1]
+|40‰ 
+|link:content/03/08.md[Present 1:1 + m:n]
 |03.11.2023
 
 |#link:content/03/[03].04
@@ -126,8 +126,8 @@
 
 |
 |
-|35‰
-|+=100‰
+|75‰
+|+=140‰
 |===
 
 == Module 4
@@ -175,12 +175,12 @@
 |Deadline
 
 |#link:content/05/[05].01
-|20‰ + 30‰ 
+|20‰ + 50‰ 
 |link:content/05/06.md[1+1 Public Contribution]
 |15.12.2023
 
 |#link:content/05/[05].02
-|30‰ + 50‰
+|50‰ + 100‰
 |link:content/05/08.md[1+1 Public Pull Request]
 |15.12.2023
 
@@ -191,8 +191,8 @@
 
 |
 |
-|130‰
-|+=270‰
+|220‰
+|+=360‰
 |===
 
 == Module 6
@@ -242,11 +242,11 @@ gh issue view --json comments https://github.com/digital-sustainability/module-e
 
 == Exam Layout
  - Init
-   * 30% + 70% + 1.5% = 101.5% 
+   * 40% + 60% + 1.5% = 101.5% 
    * link:https://github.com/digital-sustainability/module-eoss-ospo101#course-outline[OSPO 101 has 7 Modules]
  - Content
-   * 7 x 8% : ca. 2-6 Fragen pro Modul >> ca. 14-42 Fragen >> 56%
-   * 14% : ca. 7-14 Fragen übergreifend (Slides and Tasks)
+   * 7 x 7% : ca. 2-6 Fragen pro Modul >> ca. 14-42 Fragen >> 49%
+   * 11% : ca. 7-14 Fragen übergreifend (Slides and Tasks)
    * ca. 21-56 Fragen - ca. 2-3 Minuten pro Frage
  - Format
    * Sprache der Fragen: Englisch
