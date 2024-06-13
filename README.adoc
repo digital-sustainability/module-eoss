@@ -163,7 +163,7 @@ Establish OSPOs: an open source program office (OSPO) is designed to +
 (1) be the center of competency for an organization's open source operations and structure and +
 (2) put a strategy and set of policies on top of an organization's open source efforts. +
 
-Kompetenzen gemäss Kompetenzmodell BFH-W +
+**Kompetenzen gemäss Kompetenzmodell BFH-W** +
 -	Problemsolving / Design Thinking (verwandt: Methodenkompetenz) +
 
 Agile Methoden +
