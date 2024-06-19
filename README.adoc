@@ -174,13 +174,15 @@ Handling complexity +
 | Competency assessment*
 | Exam (60%) at the end of the module +
 - PC exam using Safe Exam Browser / link:https://lernstick.ch[Lernstick EXAM] +
-- Aid: own «summary» (max 10 single or 5 double pages) +
-- Dictionary (printed) mother tongue <-> english +
 - 90 minutes +
 
 Tasks (40%) +
 - Individual ongoing (~ 6 x 5) tasks during semester +
 - Teamwork research and presentation +
+
+| Aids for written examination
+|- Summary (max 10 single or 5 double pages) +
+- Dictionary (printed) mother tongue <> english
 
 | Comment
 | All contents are available here https://github.com/digital-sustainability/module-eoss licensed under CC-BY 4.0 as link:https://virtuelleakademie.ch/knowledge-base/oer-policy-der-bfh/[OER].
