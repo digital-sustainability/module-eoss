@@ -2,87 +2,77 @@ link:https://commons.wikimedia.org/wiki/File:Berner_Fachhochschule_Logo_small.sv
 
 link:https://gitpod.io#https://github.com/digital-sustainability/module-eoss[image:https://gitpod.io/button/open-in-gitpod.svg[Open IDE]]
 
-= Modulkonzept Open Source Software Management (EOSS)
+= Module: Open Source Software Management (EOSS)
 
-=== Autor: link:http://www.mtiede.de[MarkusTiede]
+=== Responsibility and lecturer: link:http://www.mtiede.de[Markus Tiede]
 
 === link:https://semver.org[Version]: 1.0.2
 
-=== Gültig ab: HS 2024
+=== Valid from: HS 2024
 
-== Formale Beschreibung
+== Formal description
 
 [cols=">,1"] 
 |===
 
-| Modulname und -kürzel 
+| Module name and abbreviation
 | Open Source Software Management (EOSS)
 
-| Verantwortliches Institut, ggfs. Fachgruppe
+| Responsible institute / section
 | https://www.bfh.ch/en/research/research-areas/public-sector-transformation/[Institut Public Sector Transformation (IPST)], https://www.bfh.ch/de/forschung/forschungsbereiche/digital-sustainability-lab/[Digital Sustainability Lab]
 
-| Studiengang
+| Course of study
 | Bachelor of Science Wirtschaftsinformatik (BWI)
 
-| Stufe
-| Hauptstudium
-
-| ggfs. Vertiefung / Wahlpflichtgruppe
-| n/a
+| Module level additive
+| Advanced level
 
 | Semester
-| 3. Semester Vollzeit, 4. Semester Teilzeit
-
-| Durchführungsmodus & Hinweise für Stundenplan
-| Alle zwei Wochen 4-Lektionenblock
+| 3rd semester full-time, 4th semester part-time
 
 | ECTS-Credits
 | 3 ECTS-Credits
 
-| Sprache
-| Deutsch / Inhalte & Unterlagen: Englisch
+| Language
+| verbal: german; content & material: english
 
-| Zielgruppe inkl. Eignung für Incoming-Stud.
-| primär ausgerichtet auf BWI-Studierende +
-offen für Studierende anderer Studiengänge oder Incoming-Studierende (mit Interesse an Open Source Software)
+| Target Group
+| primarily for BWI-students +
+open to all students from other degree programs or students with a general interest in open source software
 |
 |===
 
-== Inhaltliche Beschreibung
+== Content
 
 [cols=">,1"] 
 |===
 
-| Kurzbeschreibung +
-(öffentlich, für IS-A) 
-| Dieses Modul vermittelt die grundlegenden Konzepte für den Aufbau effektiver Open Source Praktiken in Unternehmen und Organisationen. Im Zentrum stehen dabei folgenden Phasen:
+| Short Description
+| This module covers the foundation and concepts for building effective open source practices in companies and organizations. The focus is on the following phases:
 
-- **Verwendung** von Open Source Software +
-- **Mitwirkung** in bestehenden Open Source Projekten +
-- **Initialisierung** und Community Building von eigenen Open Source Projekten +
+- **Using** open source software +
+- **Contribute** to exisiting open source projects +
+- **Starting** new open source projects and building welcoming communities +
 
-Eingebettet werden diese Schwerpunktthemen in strategischen Überlegungen, Governance Prozesse und Umsetzungen.
+These three key stages are embedded in strategic considerations, governance processes and implementation.
 
-| Detaillierte Beschreibung 
-| In the first section, you will learn the basic components of open source and open standards. You will also learn about the differences between open source and closed source software, the reasons for the use of each, and how the combination of standards and open source provides increased value to an organization. +
+| Long Description
+| In the *first section*, you will learn the basic components of open source and open standards. You will also learn about the differences between open source and closed source software, the reasons for the use of each, and how the combination of standards and open source provides increased value to an organization. +
 
-The second section discusses the various open source business models and how to develop practical strategies and policies for your organization’s chosen model. It also explains the value and importance of an Open Source Program Office (OSPO) as well as how the OSPO helps provide assistance in defining ROI and other open source metrics. +
+The *second section* discusses the various open source business models and how to develop practical strategies and policies for your organization’s chosen model. It also explains the value and importance of an Open Source Program Office (OSPO) as well as how the OSPO helps provide assistance in defining ROI and other open source metrics. +
 
-In the third section, you will learn how to build an effective OSPO and articulate the different types of roles and responsibilities needed to run it successfully. +
+In the *third section*, you will learn how to build an effective OSPO and articulate the different types of roles and responsibilities needed to run it successfully. +
 
-Section 4 talks about the role of continuous integration and testing in a healthy open source project, and how you can apply open source development principles to internal projects within your organization to take best advantage of the value these principles bring. +
+*Section 4* talks about the role of continuous integration and testing in a healthy open source project, and how you can apply open source development principles to internal projects within your organization to take best advantage of the value these principles bring. +
 
-In the fifth section you will learn about the importance of effective open source license compliance and how to build programs and processes to ensure safe and effective consumption of open source in the enterprise. You will also get familiar with the most common open source license types, and their major characteristics, as well as how to choose the most appropriate license for a given situation. +
+In the *fifth section* you will learn about the importance of effective open source license compliance and how to build programs and processes to ensure safe and effective consumption of open source in the enterprise. You will also get familiar with the most common open source license types, and their major characteristics, as well as how to choose the most appropriate license for a given situation. +
 
-Section 6 discusses how to work most effectively with upstream open source projects and how to build sound contribution strategies in organizations to get the maximum benefit from working with project communities. It also describes multiple common upstream project governance models, and explains how these governance practices affect an organization’s ability to make effective contributions. +
+*Section 6* discusses how to work most effectively with upstream open source projects and how to build sound contribution strategies in organizations to get the maximum benefit from working with project communities. It also describes multiple common upstream project governance models, and explains how these governance practices affect an organization’s ability to make effective contributions. +
 
-Finally, the last section discusses the rationale and value for creating new open source projects as well as the required legal, business and development processes needed to launch new projects.
+Finally, the *last section* discusses the rationale and value for creating new open source projects as well as the required legal, business and development processes needed to launch new projects.
 
-| Modulinhalte und Zusammenarbeit +
-(Modulaufbau, Fachinhalte, Methoden, Praxisfälle, Forschungsbezug)
-| Modulaufbau
-zweiwöchentlicher 4-Lektionenblock während des Semesters +
-eine Durchführung pro Klasse +
+| Schedule & Structure
+| *Block of 4 lessons every 2 weeks* +
 
 *Week 1*: Open Source Introduction +
 -	Introducing Open Source +
@@ -121,97 +111,84 @@ eine Durchführung pro Klasse +
 -	New Project Preparations +
 -	Successful Project Launch & Sustainment +
 
-https://github.com/digital-sustainability/module-eoss/blob/main/docs/tasks.adoc#tasks[Übungen] +
-
-Praxisfälle +
+Case Studies +
 https://todogroup.org/guides/#ospo-case-studies +
 
-Forschungsbezug +
-[...] +
+Collaboration +
+ - Inner Sourcing +
+ - Open Sourcing
+| Teaching and learning methods
+| *On-site, hybrid and remote* lectures combined with https://github.com/digital-sustainability/module-eoss/blob/main/docs/tasks.adoc#tasks[~30+ tasks] +
 
-Zusammenarbeit +
- - Inner Source Projekt +
- - Open Source Projekten
-| Lehr- und Lernformen
-| Präsenzstudium +
-Wissenserarbeitung, Lehrgespräch, Projektarbeit +
+*Self study*: +
+literature, videos
 
-Selbststudium +
-Literaturstudium, Videos
-
-| Literatur
-| https://ospo101.org +
+| Literature
+| https://digital-sustainability.github.io/module-eoss-ospo101/ +
+https://ospo101.org +
 https://todogroup.org +
 https://opensourcefriday.com +
 https://openpracticelibrary.com +
 https://ossbenchmark.com
 
-| Eingangskompetenzen +
-(Fachkompetenzen und Kompetenzen gemäss Kompetenzmodell BFH-W)
-| **Fachkompetenzen** +
--	grundlegendes Verständnis von Softwareentwicklung +
--	Business Konzepte +
+| Entry requirements
+| **Professional skills** +
+-	Basic know how of software engineering principles and	business concepts +
 
-**Kompetenzen gemäss Kompetenzmodell BFH-W**: +
+**BFH-W competency model**: +
 - Kompetenzen der Berufsmaturität der Typen «Technik, Architektur, Life Sciences» oder +
 - «Wirtschaft und Dienstleistungen» +
 
-| Vermittelte Kompetenzen +
-(Fachkompetenzen und Kompetenzen gemäss Kompetenzmodell BFH-W)
-| **Fachkompetenzen** +
+| Competencies upon completion
+| **Professional skills** +
 Establish OSPOs: an open source program office (OSPO) is designed to +
 (1) be the center of competency for an organization's open source operations and structure and +
 (2) put a strategy and set of policies on top of an organization's open source efforts. +
 
-**Kompetenzen gemäss Kompetenzmodell BFH-W** +
--	Problemsolving / Design Thinking (verwandt: Methodenkompetenz) +
+**BFH-W competency model** +
+-	Problemsolving / Design Thinking +
 
-Agile Methoden +
+Agile methods +
 -	link:https://openpracticelibrary.com/practice/definition-of-ready/[Definition of Ready] +
 -	link:https://openpracticelibrary.com/practice/definition-of-done/[Definition of Done] +
 
-Kollaboration (verwandt: Sozialkompetenzen) +
+Collaboration +
 -	Continuous Integration +
 -	Code Review +
 
-Selbstmanagement (verwandt: Selbstkompetenzen) +
+Self Organization +
 -	Retrospectives +
 -	Shared Principles +
 
-Umgang mit Komplexität +
+Handling complexity +
 -	Test Automation +
 -	Test Driven Development +
 -	Everything-as-Code +
   -	Docs As Code +
   -	GitOps +
-| Schnittstellen zu anderen Modulen +
-(zuführende, parallele, weiterführende)
-| Fach-/Methodenmodule +
-- link:https://github.com/digital-sustainability/module-wseg/[module/wseg - Software Engineering] +
+| Follow-up modules +
+| - link:https://github.com/digital-sustainability/module-wseg/[module/wseg - Software Engineering] +
 - link:https://github.com/digital-sustainability/cas-pst/[CAS - Public Sector Transformation] +
-
-Praxistransfermodule +
 - link:https://github.com/bfh/opensource/blob/main/docs/slides/2022-sdg1-pmpc/content.md[SDG1 - Public Sector Trends]
 
-| Kompetenznachweis*
-| Unterricht beurteilen +
-- PC Prüfung mit Safe Exam Browser am Semesterende +
-- Gewichtung 60% +
-- Hilfsmittel «Zusammenfassung» (max 10 Seiten) +
-- gedrucktes Wörterbuch Muttersprache <–> Sprache Kompetenznachweis (EN) +
-- 90 min +
+| Competency assessment*
+| Exam (60%) at the end of the module +
+- PC exam using Safe Exam Browser / link:https://lernstick.ch[Lernstick EXAM] +
+- Aid: own «summary» (max 10 single or 5 double pages) +
+- Dictionary (printed) mother tongue <-> english +
+- 90 minutes +
 
-Übung beurteilen +
-- Abgaben der Übungen während des Semesters (Gewichtung 40%) +
-- eine Gruppenbewertung, ansonsten Einzelbewertungen +
+Tasks (40%) +
+- Individual ongoing (~ 6 x 5) tasks during semester +
+- Teamwork research and presentation +
 
-| Bemerkung
-| Sämtliche Inhalte sind unter https://github.com/digital-sustainability/module-eoss unter CC-BY 4.0 als link:https://virtuelleakademie.ch/knowledge-base/oer-policy-der-bfh/[OER] veröffentlicht.
+| Comment
+| All contents are available here https://github.com/digital-sustainability/module-eoss licensed as CC-BY 4.0 link:https://virtuelleakademie.ch/knowledge-base/oer-policy-der-bfh/[OER].
 
 |
 |===
 
-== Anhang
+== Appendix
 
 === Timing
 
