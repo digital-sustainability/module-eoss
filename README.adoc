@@ -133,11 +133,12 @@ https://ossbenchmark.com
 
 | Entry requirements
 | **Professional skills** +
--	Basic know how of software engineering principles and	business concepts +
+-	Basic know how of software engineering principles +
+- Basic business concepts +
 
 **BFH-W competency model**: +
-- Kompetenzen der Berufsmaturität der Typen «Technik, Architektur, Life Sciences» oder +
-- «Wirtschaft und Dienstleistungen» +
+- Competencies of vocational baccalaureate «Engineering, Architecture, Life Sciences» or +
+- «Business and Services» +
 
 | Competencies upon completion
 | **Professional skills** +
