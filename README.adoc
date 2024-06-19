@@ -183,7 +183,7 @@ Tasks (40%) +
 - Teamwork research and presentation +
 
 | Comment
-| All contents are available here https://github.com/digital-sustainability/module-eoss licensed as CC-BY 4.0 link:https://virtuelleakademie.ch/knowledge-base/oer-policy-der-bfh/[OER].
+| All contents are available here https://github.com/digital-sustainability/module-eoss licensed under CC-BY 4.0 as link:https://virtuelleakademie.ch/knowledge-base/oer-policy-der-bfh/[OER].
 
 |
 |===
