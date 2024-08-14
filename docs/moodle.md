@@ -49,8 +49,8 @@ Zur Vorbereitung auf unser erstes Treffen bitte ich Sie, die folgende Aufgaben z
 
 1. Read & prepare: [OSPO 101 - Section 02: Open Source Business Strategy](https://github.com/digital-sustainability/module-eoss-ospo101/blob/main/module2/README.md#section-introducing-open-source-business-models)
 1. Collect questions: https://etherpad.wikimedia.org/p/bfh-ch-module-eoss-hs24
-1. Section 1 Task: [💪 #01.05: License(s) ✅](https://github.com/digital-sustainability/module-eoss-hs23-sandbox/issues/3)
-1. Section 1 Task: [💪 #01.06: Reason(s) ✅](https://github.com/digital-sustainability/module-eoss-hs23-sandbox/issues/4)
+1. Section 1 Task: [💪 #01.05: License(s) ✅](https://github.com/digital-sustainability/module-eoss-hs24-sandbox/issues/3)
+1. Section 1 Task: [💪 #01.06: Reason(s) ✅](https://github.com/digital-sustainability/module-eoss-hs24-sandbox/issues/4)
 
 ## Treffen 2
 
@@ -81,7 +81,7 @@ Zur Vorbereitung auf unser erstes Treffen bitte ich Sie, die folgende Aufgaben z
 
 1. Read & prepare: [OSPO 101 - Section 03: Effective Open Source Program (OSPO) Management](https://github.com/digital-sustainability/module-eoss-ospo101/blob/main/module3/README.md#open-source-program-offices-ospo-and-your-organization)
 1. Collect questions: https://etherpad.wikimedia.org/p/bfh-ch-module-eoss-hs24
-1. Section 2 Task: [💪 #02.03: Strategy ✅](https://github.com/digital-sustainability/module-eoss-hs23-sandbox/issues/7) - Analyse, document and (be able to) present your business
+1. Section 2 Task: [💪 #02.03: Strategy ✅](https://github.com/digital-sustainability/module-eoss-hs24-sandbox/issues/7) - Analyse, document and (be able to) present your business
 
 ## Treffen 3
 
