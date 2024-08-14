@@ -243,7 +243,7 @@ gh issue view --json comments https://github.com/digital-sustainability/module-e
 == Exam Layout
  - Init
    * 40% + 60% + 1.5% = 101.5% 
-   * link:https://github.com/digital-sustainability/module-eoss-ospo101#course-outline[OSPO 101 has 7 Modules]
+   * link:https://digital-sustainability.github.io/module-eoss-ospo101/#course-outline[OSPO 101 has 7 Modules]
  - Content
    * 7 x 7% : ca. 2-6 Fragen pro Modul >> ca. 14-42 Fragen >> 49%
    * 11% : ca. 7-14 Fragen übergreifend (Slides and Tasks)
