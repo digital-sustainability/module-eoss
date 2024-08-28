@@ -37,7 +37,7 @@ Zur Vorbereitung auf unser erstes Treffen bitte ich Sie, die folgende Aufgaben z
 - Informationen zur **Lernplattform**
 
 ### Lernziele
-- Inhalte [**"OSPO 101 - Section 01: Open Source Introduction"**](https://github.com/digital-sustainability/module-eoss-ospo101/blob/main/module1/README.md#section-introducing-open-source)
+- Inhalte [**"OSPO 101 - Section 01: Open Source Introduction"**](https://digital-sustainability.github.io/module-eoss-ospo101/module1/#section-introducing-open-source)
 - Erste eigene **Schritte (Login, Browsing, Voting, Commenting, ...) auf GitHub**
 - Open Source **Projekte kennenlernen**
 
@@ -47,7 +47,7 @@ Zur Vorbereitung auf unser erstes Treffen bitte ich Sie, die folgende Aufgaben z
 
 ### Tasks
 
-1. Read & prepare: [OSPO 101 - Section 02: Open Source Business Strategy](https://github.com/digital-sustainability/module-eoss-ospo101/blob/main/module2/README.md#section-introducing-open-source-business-models)
+1. Read & prepare: [OSPO 101 - Section 02: Open Source Business Strategy](https://digital-sustainability.github.io/module-eoss-ospo101/module2/#section-introducing-open-source-business-models)
 1. Collect questions: https://etherpad.wikimedia.org/p/bfh-ch-module-eoss-hs24
 1. Section 1 Task: [💪 #01.05: License(s) ✅](https://github.com/digital-sustainability/module-eoss-hs24-sandbox/issues/3)
 1. Section 1 Task: [💪 #01.06: Reason(s) ✅](https://github.com/digital-sustainability/module-eoss-hs24-sandbox/issues/4)
@@ -65,7 +65,7 @@ Zur Vorbereitung auf unser erstes Treffen bitte ich Sie, die folgende Aufgaben z
 - **Inputs & Aufgaben "OSPO 101 - Section 02"**
 
 ### Lernziele
-- Inhalte [**"OSPO 101 - Section 02: Open Source Business Strategy"**](https://github.com/digital-sustainability/module-eoss-ospo101/blob/main/module2/README.md#section-introducing-open-source-business-models)
+- Inhalte [**"OSPO 101 - Section 02: Open Source Business Strategy"**](https://digital-sustainability.github.io/module-eoss-ospo101/module2/#section-introducing-open-source-business-models)
   - **Business** Models
   - **Strategy**
   - **Policies**
@@ -79,7 +79,7 @@ Zur Vorbereitung auf unser erstes Treffen bitte ich Sie, die folgende Aufgaben z
 
 ### Tasks
 
-1. Read & prepare: [OSPO 101 - Section 03: Effective Open Source Program (OSPO) Management](https://github.com/digital-sustainability/module-eoss-ospo101/blob/main/module3/README.md#open-source-program-offices-ospo-and-your-organization)
+1. Read & prepare: [OSPO 101 - Section 03: Effective Open Source Program (OSPO) Management](https://digital-sustainability.github.io/module-eoss-ospo101/module3/#open-source-program-offices-ospo-and-your-organization)
 1. Collect questions: https://etherpad.wikimedia.org/p/bfh-ch-module-eoss-hs24
 1. Section 2 Task: [💪 #02.03: Strategy ✅](https://github.com/digital-sustainability/module-eoss-hs24-sandbox/issues/7) - Analyse, document and (be able to) present your business
 
@@ -98,7 +98,7 @@ Zur Vorbereitung auf unser erstes Treffen bitte ich Sie, die folgende Aufgaben z
 
 ### Lernziele
 - Present (business) model, open (source) strategy and (related) policies of an existing business
-- Inhalte [**OSPO 101 - Section 03: Effective Open Source Program (OSPO) Management**](https://github.com/digital-sustainability/module-eoss-ospo101/blob/main/module3/README.md#open-source-program-offices-ospo-and-your-organization)
+- Inhalte [**OSPO 101 - Section 03: Effective Open Source Program (OSPO) Management**](https://digital-sustainability.github.io/module-eoss-ospo101/module3/#open-source-program-offices-ospo-and-your-organization)
   - Open Source Program Offices & **Your Organization**
   - **Building an Effective** Open Source Program Office
   - Additional **Information & Case Studies**
@@ -109,7 +109,7 @@ Zur Vorbereitung auf unser erstes Treffen bitte ich Sie, die folgende Aufgaben z
 
 ### Tasks
 
-1. Read & prepare: [OSPO 101 - Section 04: Open Source Development Practices](https://github.com/digital-sustainability/module-eoss-ospo101/blob/main/module4/README.md#effective-open-source-development--participation)
+1. Read & prepare: [OSPO 101 - Section 04: Open Source Development Practices](https://digital-sustainability.github.io/module-eoss-ospo101/module4/#effective-open-source-development--participation)
 1. Collect questions: https://etherpad.wikimedia.org/p/bfh-ch-module-eoss-hs24
 1. Section 2 Task: 💪 #02.03: Strategy ✅ - Finish: Analyse, document and (be able to) present (at next exchange on-site) your business
 
@@ -129,7 +129,7 @@ Zur Vorbereitung auf unser erstes Treffen bitte ich Sie, die folgende Aufgaben z
 
 ### Lernziele
 - **Present business model, open strategy and policies** of an existing business + details & feedbacks
-- Inhalte [**OSPO 101 - Section 04: Open Source Development Practices**](https://github.com/digital-sustainability/module-eoss-ospo101/blob/main/module4/README.md#effective-open-source-development--participation)
+- Inhalte [**OSPO 101 - Section 04: Open Source Development Practices**](https://digital-sustainability.github.io/module-eoss-ospo101/module4/#effective-open-source-development--participation)
   - Effective Open Source **Development & Participation**
   - The Role of **Continuous Integration & Testing**
   - Applying **Open Source Methodologies Internally**
@@ -140,7 +140,7 @@ Zur Vorbereitung auf unser erstes Treffen bitte ich Sie, die folgende Aufgaben z
 
 ### Tasks
 
-1. Read & prepare: [OSPO 101 - Section 05: Open Source Licensing and Compliance Basics](https://github.com/digital-sustainability/module-eoss-ospo101/blob/main/module5/README.md)
+1. Read & prepare: [OSPO 101 - Section 05: Open Source Licensing and Compliance Basics](https://digital-sustainability.github.io/module-eoss-ospo101/module5/)
 1. Collect questions: https://etherpad.wikimedia.org/p/bfh-ch-module-eoss-hs24
 1. Section 4 Tasks: 
   - 💪 #04.01: Key Takeaway(s) ✅
@@ -161,7 +161,7 @@ Zur Vorbereitung auf unser erstes Treffen bitte ich Sie, die folgende Aufgaben z
 - **Inputs & Aufgaben "OSPO 101 - Section 05"**
 
 ### Lernziele
-- Inhalte [**OSPO 101 - Section 05: Open Source Compliance Programs**](https://github.com/digital-sustainability/module-eoss-ospo101/blob/main/module5/README.md)
+- Inhalte [**OSPO 101 - Section 05: Open Source Compliance Programs**](https://digital-sustainability.github.io/module-eoss-ospo101/module5/)
   - Open Source **Licensing and Compliance** Basics
   - Building an Effective **Compliance Program**
   - Choosing the Right License **Compliance Tool**
@@ -173,7 +173,7 @@ Zur Vorbereitung auf unser erstes Treffen bitte ich Sie, die folgende Aufgaben z
 
 ### Tasks
 
-1. Read & prepare: [OSPO 101 - Section 06: Understanding Upstream Open Source Projects](https://github.com/digital-sustainability/module-eoss-ospo101/blob/main/module6/README.md)
+1. Read & prepare: [OSPO 101 - Section 06: Understanding Upstream Open Source Projects](https://digital-sustainability.github.io/module-eoss-ospo101/module6/)
 1. Collect questions: https://etherpad.wikimedia.org/p/bfh-ch-module-eoss-hs24
 1. Section 5 Tasks: 
   - 💪 #05.01: Public Contribution ✅
@@ -194,7 +194,7 @@ Zur Vorbereitung auf unser erstes Treffen bitte ich Sie, die folgende Aufgaben z
 - **Inputs & Aufgaben "OSPO 101 - Section 06"**
 
 ### Lernziele
-- Inhalte [**OSPO 101 - Section 06: Understanding Upstream Open Source Projects**](https://github.com/digital-sustainability/module-eoss-ospo101/blob/main/module6/README.md)
+- Inhalte [**OSPO 101 - Section 06: Understanding Upstream Open Source Projects**](https://digital-sustainability.github.io/module-eoss-ospo101/module6/)
   - Understanding **Upstream Open Source Projects**
   - Effective **Upstream Contribution Strategies**
   - Upstream Development Practices
@@ -205,7 +205,7 @@ Zur Vorbereitung auf unser erstes Treffen bitte ich Sie, die folgende Aufgaben z
 
 ### Tasks
 
-1. Read & prepare: [OSPO 101 - Section 07: Creating Open Source Projects](https://github.com/digital-sustainability/module-eoss-ospo101/blob/main/module7/README.md)
+1. Read & prepare: [OSPO 101 - Section 07: Creating Open Source Projects](https://digital-sustainability.github.io/module-eoss-ospo101/module7/)
 1. Collect questions: https://etherpad.wikimedia.org/p/bfh-ch-module-eoss-hs24
 1. Section 6 Tasks: 
   - 💪 #06.01: Semantic Versioning ✅
@@ -226,7 +226,7 @@ Zur Vorbereitung auf unser erstes Treffen bitte ich Sie, die folgende Aufgaben z
 - **Inputs "OSPO 101 - Section 07"**
 
 ### Lernziele
-- Inhalte [**OSPO 101 - Section 07: Creating Open Source Projects**](https://github.com/digital-sustainability/module-eoss-ospo101/blob/main/module7/README.md)
+- Inhalte [**OSPO 101 - Section 07: Creating Open Source Projects**](https://digital-sustainability.github.io/module-eoss-ospo101/module7/)
   - Open Source **Project Creation Overview**
   - New **Project Preparations**
   - Successful **Project Launch & Sustainment**
