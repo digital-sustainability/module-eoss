@@ -16,6 +16,8 @@ Eingebettet werden diese Schwerpunktthemen in strategischen Überlegungen, Gover
 
 Die **sieben (7) Kurstreffen finden alle 2 Wochen freitags am frühen Nachmittag (12.35 - 16.00)** statt. Dazwischen gibt es **Selbstlernphasen - gepaart mit Vor- und Nachbereitungsaufgaben**.
 
+![](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/digital-sustainability/module-eoss/main/docs/timing.puml)
+
 ## Vorbereitungsphase
 
 Zur Vorbereitung auf unser erstes Treffen bitte ich Sie, die folgende Aufgaben zu erledigen:
