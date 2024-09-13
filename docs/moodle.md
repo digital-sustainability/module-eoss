@@ -1,6 +1,6 @@
 # EOSS
 
-![](https://github.com/todogroup/ospo-career-path/raw/main/OSPO%20101/ospo101.svg)
+![](https://github.com/digital-sustainability/module-eoss-ospo101/raw/main/ospo101.svg)
 
 # Open Source Software Management
 
