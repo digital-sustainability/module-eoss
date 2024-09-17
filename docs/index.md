@@ -28,7 +28,7 @@ Please prepare the following tasks for our first on-site exchange:
 ### Date & Time
 **Fr, 27. September 2024, 12.35 - 16.00h**
 
-[BFH, **Brückenstrasse 73**, 3007 Bern, **Raum P111**](https://www.bfh.ch/de/ueber-die-bfh/standorte-infrastruktur/standorte/bern-brueckenstrasse/)
+[BFH, **Brückenstrasse 73**, 3007 Bern, **Raum P111**](https://www.bfh.ch/en/about-bfh/locations-facilities/locations/bern-brueckenstrasse/)
 
 ### Agenda
 - First **meet and greet: getting to know each other**
@@ -56,7 +56,7 @@ Please prepare the following tasks for our first on-site exchange:
 ### Date & Time
 **Fr, 11. October 2024, 12.35 - 16.00h**
 
-[BFH, **Brückenstrasse 73**, 3007 Bern, **Raum P111**](https://www.bfh.ch/de/ueber-die-bfh/standorte-infrastruktur/standorte/bern-brueckenstrasse/)
+[BFH, **Brückenstrasse 73**, 3007 Bern, **Raum P111**](https://www.bfh.ch/en/about-bfh/locations-facilities/locations/bern-brueckenstrasse/)
 
 ### Agenda
 - **Recap**: Inputs & Tasks "OSPO 101 - Section 01"
@@ -88,7 +88,7 @@ Please prepare the following tasks for our first on-site exchange:
 
 **Fr, 25. October 2024, 12.35 - 16.00h**
 
-[BFH, **Brückenstrasse 73**, 3007 Bern, **Raum P111**](https://www.bfh.ch/de/ueber-die-bfh/standorte-infrastruktur/standorte/bern-brueckenstrasse/)
+[BFH, **Brückenstrasse 73**, 3007 Bern, **Raum P111**](https://www.bfh.ch/en/about-bfh/locations-facilities/locations/bern-brueckenstrasse/)
 
 ### Agenda
 - **Recap**: Inputs & Tasks "OSPO 101 - Section 02"
@@ -118,7 +118,7 @@ Please prepare the following tasks for our first on-site exchange:
 
 **Fr, 08. November 2024, 12.35 - 16.00h**
 
-[BFH, **Brückenstrasse 73**, 3007 Bern, **Raum P111**](https://www.bfh.ch/de/ueber-die-bfh/standorte-infrastruktur/standorte/bern-brueckenstrasse/)
+[BFH, **Brückenstrasse 73**, 3007 Bern, **Raum P111**](https://www.bfh.ch/en/about-bfh/locations-facilities/locations/bern-brueckenstrasse/)
 
 ### Agenda
 - ~12 individual #02.03 presentations of ~5-7 minutes (2 x 45 minutes for presentation slot)
@@ -152,7 +152,7 @@ Please prepare the following tasks for our first on-site exchange:
 
 **Fr, 22. November 2024, 12.35 - 16.00h**
 
-[BFH, **Brückenstrasse 73**, 3007 Bern, **Raum P111**](https://www.bfh.ch/de/ueber-die-bfh/standorte-infrastruktur/standorte/bern-brueckenstrasse/)
+[BFH, **Brückenstrasse 73**, 3007 Bern, **Raum P111**](https://www.bfh.ch/en/about-bfh/locations-facilities/locations/bern-brueckenstrasse/)
 
 ### Agenda
 - **Recap**: Inputs & Tasks "OSPO 101 - Section 04"
@@ -185,7 +185,7 @@ Please prepare the following tasks for our first on-site exchange:
 
 **Fr, 06. December 2024, 12.35 - 16.00h**
 
-[BFH, **Brückenstrasse 73**, 3007 Bern, **Raum P111**](https://www.bfh.ch/de/ueber-die-bfh/standorte-infrastruktur/standorte/bern-brueckenstrasse/)
+[BFH, **Brückenstrasse 73**, 3007 Bern, **Raum P111**](https://www.bfh.ch/en/about-bfh/locations-facilities/locations/bern-brueckenstrasse/)
 
 ### Agenda
 - **Recap**: Inputs & Tasks "OSPO 101 - Section 05"
@@ -217,7 +217,7 @@ Please prepare the following tasks for our first on-site exchange:
 
 **Fr, 20. December 2024, 12.35 - 16.00h**
 
-[BFH, **Brückenstrasse 73**, 3007 Bern, **Raum P111**](https://www.bfh.ch/de/ueber-die-bfh/standorte-infrastruktur/standorte/bern-brueckenstrasse/)
+[BFH, **Brückenstrasse 73**, 3007 Bern, **Raum P111**](https://www.bfh.ch/en/about-bfh/locations-facilities/locations/bern-brueckenstrasse/)
 
 ### Agenda
 - **Recap**: Inputs & Tasks "OSPO 101 - Section 06"
