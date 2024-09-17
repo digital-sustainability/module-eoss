@@ -7,72 +7,72 @@ caption CC-BY-4.0
 legend
 X-Axis: (relative) week numbers
 
-SLP Selbstlernphase
+SS Self-Study
 OSPO Open Source Program Office - https://ospo101.org
 end legend
 
 concise "Module EOSS" as eoss
-robust "Studierende" as studi
+robust "Students" as students
 concise "Tasks" as tasks
-concise "Dozent" as dozent
+concise "Lecturer" as lecturer
 scale 1 as 70 pixels
 
 @-1
-studi is EINGESCHRIEBEN
-dozent is supporting
+students is ENROLLED
+lecturer is supporting
 
 @+1
 tasks is Start
 
 @1
-dozent -> eoss: Treffen 1
+lecturer -> eoss: On-Site 1
 eoss is "1 Kick-Off"
 tasks is Github
-studi is OSPO-101.1
+students is OSPO-101.1
 
 @+1
-studi is OSPO-101.2
+students is OSPO-101.2
 
 @+1
-dozent -> eoss: Treffen 2
+lecturer -> eoss: On-Site 2
 eoss is "2 Business"
 tasks is "Teamwork: Inner-Sourcing"
-@7 <-> @11 : {10 x 5-10 min Vorstellung(en)}
+@7 <-> @11 : {10 x 5-10 min Presentations}
 
 @+1
-studi is OSPO-101.3
+students is OSPO-101.3
 
 @+1
-dozent -> eoss: Treffen 3
+lecturer -> eoss: On-Site 3
 eoss is "3 Management"
 
 @+1
-studi is OSPO-101.4
+students is OSPO-101.4
 
 @+1
-dozent -> eoss: Treffen 4
+lecturer -> eoss: On-Site 4
 eoss is "4 Development"
 tasks is "2 x Open Source Contributions"
 
 @+1
-studi is OSPO-101.5
+students is OSPO-101.5
 
 @+1
-dozent -> eoss: Treffen 5
+lecturer -> eoss: On-Site 5
 eoss is "5 Compliance"
 
 @+1
-studi is OSPO-101.6
+students is OSPO-101.6
 
 @+1
-dozent -> eoss: Treffen 6
+lecturer -> eoss: On-Site 6
 eoss is "6 Collaboration"
 
 @+1
-studi is OSPO-101.7
+students is OSPO-101.7
 
 @+1
-dozent -> eoss: Treffen 7
+lecturer -> eoss: On-Site 7
 eoss is "7 Starting"
 tasks is FINISHing
 
@@ -83,21 +83,21 @@ eoss is {-}
 tasks is {-}
 
 @+1
-eoss is Vorbereitung
+eoss is "Exam Preparation"
 
 @+1
-dozent is {-}
+lecturer is {-}
 
 @+1
-eoss -> studi: Prüfung
+eoss -> students: Exam
 eoss is {-}
 
-highlight 2 to 3 #lightgreen : SLP1
-highlight 4 to 5 #lightgreen : SLP2
-highlight 6 to 7 #lightgreen : SLP3
-highlight 8 to 9 #lightgreen : SLP4
-highlight 10 to 11 #lightgreen : SLP5
-highlight 12 to 13 #lightgreen : SLP6
+highlight 2 to 3 #lightgreen : SS1
+highlight 4 to 5 #lightgreen : SS2
+highlight 6 to 7 #lightgreen : SS3
+highlight 8 to 9 #lightgreen : SS4
+highlight 10 to 11 #lightgreen : SS5
+highlight 12 to 13 #lightgreen : SS6
 
 highlight 1 to 2 #lightblue : Tasks
 highlight 3 to 4 #lightblue : Tasks
