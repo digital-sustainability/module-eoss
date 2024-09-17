@@ -29,7 +29,7 @@ Zur Vorbereitung auf unser erstes Treffen bitte ich Sie, die folgende Aufgaben z
 ## Treffen 1
 
 ### Zeit & Ort
-**Fr, 29. September 2024, 12.35 - 16.00h**
+**Fr, 27. September 2024, 12.35 - 16.00h**
 
 [BFH, **Brückenstrasse 73**, 3007 Bern, **Raum P111**](https://www.bfh.ch/de/ueber-die-bfh/standorte-infrastruktur/standorte/bern-brueckenstrasse/)
 
@@ -45,7 +45,7 @@ Zur Vorbereitung auf unser erstes Treffen bitte ich Sie, die folgende Aufgaben z
 
 ## Selbstlernphase 1
 
-`30. September - 05. Oktober 2024`
+`28. September - 10. Oktober 2024`
 
 ### Tasks
 
@@ -57,7 +57,7 @@ Zur Vorbereitung auf unser erstes Treffen bitte ich Sie, die folgende Aufgaben z
 ## Treffen 2
 
 ### Zeit & Ort
-**Fr, 06. Oktober 2024, 12.35 - 16.00h**
+**Fr, 11. Oktober 2024, 12.35 - 16.00h**
 
 [BFH, **Brückenstrasse 73**, 3007 Bern, **Raum P111**](https://www.bfh.ch/de/ueber-die-bfh/standorte-infrastruktur/standorte/bern-brueckenstrasse/)
 
@@ -77,7 +77,7 @@ Zur Vorbereitung auf unser erstes Treffen bitte ich Sie, die folgende Aufgaben z
 
 ## Selbstlernphase 2
 
-`07. - 19. Oktober 2024`
+`12. - 24. Oktober 2024`
 
 ### Tasks
 
@@ -89,7 +89,7 @@ Zur Vorbereitung auf unser erstes Treffen bitte ich Sie, die folgende Aufgaben z
 
 ### Zeit & Ort
 
-**Fr, 20. Oktober 2024, 12.35 - 16.00h**
+**Fr, 25. Oktober 2024, 12.35 - 16.00h**
 
 [BFH, **Brückenstrasse 73**, 3007 Bern, **Raum P111**](https://www.bfh.ch/de/ueber-die-bfh/standorte-infrastruktur/standorte/bern-brueckenstrasse/)
 
@@ -107,7 +107,7 @@ Zur Vorbereitung auf unser erstes Treffen bitte ich Sie, die folgende Aufgaben z
 
 ## Selbstlernphase 3
 
-`21. Oktober - 02. November 2024`
+`26. Oktober - 07. November 2024`
 
 ### Tasks
 
@@ -119,7 +119,7 @@ Zur Vorbereitung auf unser erstes Treffen bitte ich Sie, die folgende Aufgaben z
 
 ### Zeit & Ort
 
-**Fr, 03. November 2024, 12.35 - 16.00h**
+**Fr, 08. November 2024, 12.35 - 16.00h**
 
 [BFH, **Brückenstrasse 73**, 3007 Bern, **Raum P111**](https://www.bfh.ch/de/ueber-die-bfh/standorte-infrastruktur/standorte/bern-brueckenstrasse/)
 
@@ -138,7 +138,7 @@ Zur Vorbereitung auf unser erstes Treffen bitte ich Sie, die folgende Aufgaben z
 
 ## Selbstlernphase 4
 
-`04. - 16. November 2024`
+`09. - 21. November 2024`
 
 ### Tasks
 
@@ -153,7 +153,7 @@ Zur Vorbereitung auf unser erstes Treffen bitte ich Sie, die folgende Aufgaben z
 
 ### Zeit & Ort
 
-**Fr, 17. November 2024, 12.35 - 16.00h**
+**Fr, 22. November 2024, 12.35 - 16.00h**
 
 [BFH, **Brückenstrasse 73**, 3007 Bern, **Raum P111**](https://www.bfh.ch/de/ueber-die-bfh/standorte-infrastruktur/standorte/bern-brueckenstrasse/)
 
@@ -171,7 +171,7 @@ Zur Vorbereitung auf unser erstes Treffen bitte ich Sie, die folgende Aufgaben z
 
 ## Selbstlernphase 5
 
-`18. - 30. November 2024`
+`23. - 05. Dezember 2024`
 
 ### Tasks
 
@@ -186,7 +186,7 @@ Zur Vorbereitung auf unser erstes Treffen bitte ich Sie, die folgende Aufgaben z
 
 ### Zeit & Ort
 
-**Fr, 01. Dezember 2024, 12.35 - 16.00h**
+**Fr, 06. Dezember 2024, 12.35 - 16.00h**
 
 [BFH, **Brückenstrasse 73**, 3007 Bern, **Raum P111**](https://www.bfh.ch/de/ueber-die-bfh/standorte-infrastruktur/standorte/bern-brueckenstrasse/)
 
@@ -203,7 +203,7 @@ Zur Vorbereitung auf unser erstes Treffen bitte ich Sie, die folgende Aufgaben z
 
 ## Selbstlernphase 6
 
-`02. - 14. Dezember 2024`
+`07. - 19. Dezember 2024`
 
 ### Tasks
 
@@ -218,7 +218,7 @@ Zur Vorbereitung auf unser erstes Treffen bitte ich Sie, die folgende Aufgaben z
 
 ### Zeit & Ort
 
-**Fr, 15. Dezember 2024, 12.35 - 16.00h**
+**Fr, 20. Dezember 2024, 12.35 - 16.00h**
 
 [BFH, **Brückenstrasse 73**, 3007 Bern, **Raum P111**](https://www.bfh.ch/de/ueber-die-bfh/standorte-infrastruktur/standorte/bern-brueckenstrasse/)
 
