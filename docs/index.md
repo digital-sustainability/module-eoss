@@ -6,19 +6,16 @@
 
 ![GitHub](https://img.shields.io/github/license/digital-sustainability/module-eoss)
 
-Dieses [Modul](https://github.com/digital-sustainability/module-eoss#modulkonzept-open-source-software-management-eoss) vermittelt die **grundlegenden Konzepte für den Aufbau effektiver Open Source Praktiken** in Unternehmen und Behörden. Im Zentrum stehen dabei folgenden Phasen:
+This [module](https://digital-sustainability.github.io/module-eoss/) covers the foundation and concepts for building effective open source practices in companies and organizations. The focus is on the following phases:
 
-- **Verwendung** von Open Source Software
-- **Mitwirkung** in bestehenden Open Source Projekten
-- **Initialisierung und Community Building** von eigenen Open Source Projekten
-
-Eingebettet werden diese Schwerpunktthemen in strategischen Überlegungen, Governance Prozesse und Umsetzungen.
-
-Die **sieben (7) Kurstreffen finden alle 2 Wochen freitags am frühen Nachmittag (12.35 - 16.00)** statt. Dazwischen gibt es **Selbstlernphasen - gepaart mit Vor- und Nachbereitungsaufgaben**.
+ - **Using** open source software
+ - **Contribute** to existing open source projects
+ - **Starting new open source projects** and building welcoming communities
+These three key stages are embedded in strategic considerations, governance processes and implementation.
 
 ![](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/digital-sustainability/module-eoss/main/docs/timing.puml)
 
-## Vorbereitungsphase
+## Preparation
 
 Zur Vorbereitung auf unser erstes Treffen bitte ich Sie, die folgende Aufgaben zu erledigen:
 
