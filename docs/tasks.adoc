@@ -56,7 +56,7 @@
 
 |#link:content/02/[02].01
 |10‰ 
-|link:content/02/02.md[Alternative(n)]
+|link:content/02/02.md[Alternative(s)]
 |08.11.2024
 
 |#link:content/02/[02].02
