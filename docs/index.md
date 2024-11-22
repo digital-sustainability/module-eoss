@@ -152,7 +152,7 @@ Please prepare the following tasks for our first on-site exchange:
 
 **Fr, 22. November 2024, 12.35 - 16.00h**
 
-[BFH, **Brückenstrasse 73**, 3007 Bern, **P111**](https://www.bfh.ch/en/about-bfh/locations-facilities/locations/bern-brueckenstrasse/)
+NO ON-SITE EXCHANGE - REMOTE only in [BigBlueButton](https://bbb.ch-open.ch)
 
 ### Agenda
 - **Recap**: Inputs & Tasks "OSPO 101 - Section 04"
