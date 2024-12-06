@@ -211,12 +211,12 @@
 
 |#link:content/06/[06].02
 |10‰ 
-|link:content/06/07.md[Contribution model]
+|link:content/06/07.md[Contribution Governance]
 |31.12.2024
 
 |#link:content/06/[06].03
 |10‰ 
-|link:content/06/09.md[Contribution phase]
+|link:content/06/09.md[Contribution Phase]
 |31.12.2024
 
 |
