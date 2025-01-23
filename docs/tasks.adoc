@@ -26,7 +26,7 @@
 
 |#link:content/01/[01].04
 |5‰ 
-|link:content/01/08.md[Star(s)]
+|link:content/01/task/04.md[Star(s)]
 |25.10.2024
 
 |#link:content/01/[01].05
