@@ -16,7 +16,7 @@
 
 |#link:content/01/[01].02
 |5‰ 
-|link:content/01/04.md[Goal(s)]
+|link:content/01/task/02.md[Goal(s)]
 |25.10.2024
 
 |#link:content/01/[01].03
