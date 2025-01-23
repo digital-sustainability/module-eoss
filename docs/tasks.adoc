@@ -11,7 +11,7 @@
 
 |#link:content/01/[01].01
 |5‰ 
-|link:content/01/02.md[Account]
+|link:content/01/task/01.md[Account]
 |25.10.2024
 
 |#link:content/01/[01].02
