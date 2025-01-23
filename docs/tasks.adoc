@@ -36,7 +36,7 @@
 
 |#link:content/01/[01].06
 |5‰ 
-|link:content/01/12.md[Reason(s)]
+|link:content/01/task/06.md[Reason(s)]
 |25.10.2024
 
 |
