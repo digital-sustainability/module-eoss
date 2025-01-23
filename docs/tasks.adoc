@@ -31,7 +31,7 @@
 
 |#link:content/01/[01].05
 |10‰ 
-|link:content/01/10.md[License(s)]
+|link:content/01/task/05.md[License(s)]
 |25.10.2024
 
 |#link:content/01/[01].06
