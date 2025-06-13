@@ -127,7 +127,6 @@ literature, videos
 | https://digital-sustainability.github.io/module-eoss-ospo101/ +
 https://ospo101.org +
 https://todogroup.org +
-https://opensourcefriday.com +
 https://openpracticelibrary.com +
 https://ossbenchmark.com
 
@@ -166,7 +165,6 @@ Handling complexity +
 -	Test Driven Development +
 -	Everything-as-Code +
   -	Docs As Code +
-  -	GitOps +
 | Follow-up modules +
 | - link:https://github.com/digital-sustainability/module-wseg/[module/wseg - Software Engineering] +
 - link:https://github.com/digital-sustainability/cas-pst/[CAS - Public Sector Transformation] +
