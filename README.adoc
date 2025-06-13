@@ -122,9 +122,10 @@ Collaboration +
 *Self study*: literature, videos 
 | Literature
 | https://digital-sustainability.github.io/module-eoss-ospo101/ +
+https://ospobook.todogroup.org +
+
 https://ospo101.org +
 https://todogroup.org +
-https://ospobook.todogroup.org +
 https://openpracticelibrary.com +
 https://ossbenchmark.com
 
