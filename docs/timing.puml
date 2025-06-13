@@ -80,9 +80,10 @@ tasks is FINISHing
 
 @+1
 eoss is {-}
-tasks is {-}
 
 @+1
+eoss -> tasks: Tasks finished
+tasks is {-}
 eoss is "Exam Preparation"
 
 @+1
