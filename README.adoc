@@ -127,6 +127,7 @@ literature, videos
 | https://digital-sustainability.github.io/module-eoss-ospo101/ +
 https://ospo101.org +
 https://todogroup.org +
+https://ospobook.todogroup.org +
 https://openpracticelibrary.com +
 https://ossbenchmark.com
 
