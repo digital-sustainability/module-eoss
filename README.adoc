@@ -33,9 +33,6 @@ link:https://gitpod.io#https://github.com/digital-sustainability/module-eoss[ima
 | ECTS-Credits
 | 3 ECTS-Credits
 
-| Language
-| **verbal: German; content & material: English**
-
 | Target Group
 | primarily for BWI-students +
 open to all students from other degree programs or students with a general interest in open source software
@@ -118,7 +115,8 @@ Collaboration +
  - Inner Sourcing +
  - Open Sourcing
 | Teaching and learning methods
-| *On-site, hybrid and remote* lectures combined with https://github.com/digital-sustainability/module-eoss/blob/main/docs/tasks.adoc#tasks[~30+ tasks] +
+| **Language**: verbal / spoken: **German**; slides, content, literature & material: **English** +
+7 *On-site, hybrid and remote* lectures combined with https://github.com/digital-sustainability/module-eoss/blob/main/docs/tasks.adoc#tasks[~30+ tasks] +
 
 *Self study*: +
 literature, videos
