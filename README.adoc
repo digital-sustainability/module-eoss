@@ -6,9 +6,9 @@ link:https://gitpod.io#https://github.com/digital-sustainability/module-eoss[ima
 
 === Responsibility and lecturer: link:http://www.mtiede.de[Markus Tiede]
 
-=== link:https://semver.org[Version]: 1.0.2
+=== link:https://semver.org[Version]: 1.0.3
 
-=== Valid from: HS 2024
+=== Valid from: HS 2025
 
 == Formal description
 
