@@ -119,9 +119,7 @@ Collaboration +
 
 7 *On-site, hybrid and remote* lectures combined with https://github.com/digital-sustainability/module-eoss/blob/main/docs/tasks.adoc#tasks[~30+ tasks] +
 
-*Self study*: +
-literature, videos
-
+*Self study*: literature, videos 
 | Literature
 | https://digital-sustainability.github.io/module-eoss-ospo101/ +
 https://ospo101.org +
