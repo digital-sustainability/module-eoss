@@ -34,7 +34,7 @@ link:https://gitpod.io#https://github.com/digital-sustainability/module-eoss[ima
 | 3 ECTS-Credits
 
 | Language
-| verbal: german; content & material: english
+| **verbal: German; content & material: English**
 
 | Target Group
 | primarily for BWI-students +
