@@ -116,6 +116,7 @@ Collaboration +
  - Open Sourcing
 | Teaching and learning methods
 | **Language**: verbal / spoken: **German**; slides, content, literature & material: **English** +
+
 7 *On-site, hybrid and remote* lectures combined with https://github.com/digital-sustainability/module-eoss/blob/main/docs/tasks.adoc#tasks[~30+ tasks] +
 
 *Self study*: +
