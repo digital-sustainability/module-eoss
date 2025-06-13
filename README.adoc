@@ -172,11 +172,11 @@ Handling complexity +
 - link:https://github.com/bfh/opensource/blob/main/docs/slides/2022-sdg1-pmpc/content.md[SDG1 - Public Sector Trends]
 
 | Competency assessment*
-| (individual) Exam (60%) at the end of the module +
+| (individual) **Exam** (60%) at the end of the module +
 - (electronic) PC exam using Safe Exam Browser / link:https://lernstick.ch[Lernstick EXAM] +
 - 90 minutes +
 
-Tasks (40%) finished by the end of the module +
+**Tasks** (40%) finished by the end of the module +
 - (individual) ongoing (~ 6 x 5) tasks during semester +
 - (small) Teamwork research, collaboration and presentation (possible from week 7 to 11) +
 
