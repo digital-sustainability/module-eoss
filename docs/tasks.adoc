@@ -12,32 +12,32 @@
 |#link:content/01/[01].01
 |5‰ 
 |link:content/01/task/01.md[Account]
-|25.10.2024
+|25.10.2025
 
 |#link:content/01/[01].02
 |5‰ 
 |link:content/01/task/02.md[Goal(s)]
-|25.10.2024
+|25.10.2025
 
 |#link:content/01/[01].03
 |5‰ 
 |link:content/01/task/03.md[Level(s)]
-|25.10.2024
+|25.10.2025
 
 |#link:content/01/[01].04
 |5‰ 
 |link:content/01/task/04.md[Star(s)]
-|25.10.2024
+|25.10.2025
 
 |#link:content/01/[01].05
 |10‰ 
 |link:content/01/task/05.md[License(s)]
-|25.10.2024
+|25.10.2025
 
 |#link:content/01/[01].06
 |5‰ 
 |link:content/01/task/06.md[Reason(s)]
-|25.10.2024
+|25.10.2025
 
 |
 |
@@ -57,27 +57,27 @@
 |#link:content/02/[02].01
 |10‰ 
 |link:content/02/task/01.md[Alternative(s)]
-|08.11.2024
+|08.11.2025
 
 |#link:content/02/[02].02
 |5‰ 
 |link:content/02/task/02.md[Issue(s)]
-|08.11.2024
+|08.11.2025
 
 |#link:content/02/[02].03
 |5‰ 
 |link:content/02/task/03.md[Business]
-|25.10.2024
+|25.10.2025
 
 |#link:content/02/[02].04
 |5‰ 
 |link:content/02/task/04.md[Strategy]
-|25.10.2024
+|25.10.2025
 
 |#link:content/02/[02].05
 |5‰ 
 |link:content/02/task/05.md[Policies]
-|25.10.2024
+|25.10.2025
 
 |
 |
@@ -97,32 +97,32 @@
 |#link:content/03/[03].01
 |5‰ 
 |link:content/03/task/01.md[Commit(s)]
-|08.11.2024
+|08.11.2025
 
 |#link:content/03/[03].02
 |10‰ 
 |link:content/03/task/02.md[Author(s) & DCO]
-|08.11.2024
+|08.11.2025
 
 |#link:content/03/[03].03
 |40‰ 
 |link:content/03/task/03.md[Present 1:1 + m:n]
-|08.11.2024
+|08.11.2025
 
 |#link:content/03/[03].04
 |5‰
 |link:content/03/task/04.md[Feedback 1:1]
-|08.11.2024
+|08.11.2025
 
 |#link:content/03/[03].05
 |10‰ 
 |link:content/03/task/05.md[Enhance]
-|22.11.2024
+|22.11.2025
 
 |#link:content/03/[03].06
 |5‰ 
 |link:content/03/task/06.md[Merge]
-|22.11.2024
+|22.11.2025
 
 |
 |
@@ -142,22 +142,22 @@
 |#link:content/04/[04].01
 |10‰ 
 |link:content/04/task/01.md[Key Takeaway(s)]
-|06.12.2024
+|06.12.2025
 
 |#link:content/04/[04].02
 |5‰ 
 |link:content/04/task/02.md[Boy Scout Rule]
-|06.12.2024
+|06.12.2025
 
 |#link:content/04/[04].03
 |10‰ 
 |link:content/04/task/03.md[Contribution]
-|06.12.2024
+|06.12.2025
 
 |#link:content/04/[04].04
 |25‰ 
 |Content of todays <Chosen business>.md file
-|06.12.2024
+|06.12.2025
 
 |
 |
@@ -177,17 +177,17 @@
 |#link:content/05/[05].01
 |20‰ + 40‰ 
 |link:content/05/task/01.md[1+1 Public Contribution]
-|20.12.2024
+|20.12.2025
 
 |#link:content/05/[05].02
 |40‰ + 80‰
 |link:content/05/task/02.md[1+1 Public Pull Request]
-|20.12.2024
+|20.12.2025
 
 |#link:content/05/[05].03
 |+15‰ 
 |link:content/05/task/03.md[(Meta) Change(s)]
-|20.12.2024
+|20.12.2025
 
 |
 |
@@ -207,17 +207,17 @@
 |#link:content/06/[06].01
 |10‰ 
 |link:content/06/task/01.md[Semantic Versioning]
-|31.12.2024
+|31.12.2025
 
 |#link:content/06/[06].02
 |10‰ 
 |link:content/06/task/02.md[Contribution Governance]
-|31.12.2024
+|31.12.2025
 
 |#link:content/06/[06].03
 |10‰ 
 |link:content/06/task/03.md[Contribution Phase]
-|31.12.2024
+|31.12.2025
 
 |
 |
