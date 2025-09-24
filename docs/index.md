@@ -26,7 +26,7 @@ Please prepare the following tasks for our first on-site exchange:
 ## On-Site 1
 
 ### Date & Time
-**Fr, 26. September 2024, 12.35 - 16.00h**
+**Fr, 26. September 2025, 12.35 - 16.00h**
 
 [BFH, **Brückenstrasse 73**, 3007 Bern, **P111**](https://www.bfh.ch/en/about-bfh/locations-facilities/locations/bern-brueckenstrasse/)
 
@@ -42,7 +42,7 @@ Please prepare the following tasks for our first on-site exchange:
 
 ## Self-Study 1
 
-`27. September - 09. October 2024`
+`27. September - 09. October 2025`
 
 ### Tasks
 
@@ -54,7 +54,7 @@ Please prepare the following tasks for our first on-site exchange:
 ## On-Site 2
 
 ### Date & Time
-**Fr, 10. October 2024, 12.35 - 16.00h**
+**Fr, 10. October 2025, 12.35 - 16.00h**
 
 [BFH, **Brückenstrasse 73**, 3007 Bern, **P111**](https://www.bfh.ch/en/about-bfh/locations-facilities/locations/bern-brueckenstrasse/)
 
@@ -74,7 +74,7 @@ Please prepare the following tasks for our first on-site exchange:
 
 ## Self-Study 2
 
-`11. - 23. October 2024`
+`11. - 23. October 2025`
 
 ### Tasks
 
@@ -86,7 +86,7 @@ Please prepare the following tasks for our first on-site exchange:
 
 ### Date & Time
 
-**Fr, 24. October 2024, 12.35 - 16.00h**
+**Fr, 24. October 2025, 12.35 - 16.00h**
 
 [BFH, **Brückenstrasse 73**, 3007 Bern, **P111**](https://www.bfh.ch/en/about-bfh/locations-facilities/locations/bern-brueckenstrasse/)
 
@@ -104,7 +104,7 @@ Please prepare the following tasks for our first on-site exchange:
 
 ## Self-Study 3
 
-`25. October - 06. November 2024`
+`25. October - 06. November 2025`
 
 ### Tasks
 
@@ -116,7 +116,7 @@ Please prepare the following tasks for our first on-site exchange:
 
 ### Date & Time
 
-**Fr, 07. November 2024, 12.35 - 16.00h**
+**Fr, 07. November 2025, 12.35 - 16.00h**
 
 [BFH, **Brückenstrasse 73**, 3007 Bern, **P111**](https://www.bfh.ch/en/about-bfh/locations-facilities/locations/bern-brueckenstrasse/)
 
@@ -135,7 +135,7 @@ Please prepare the following tasks for our first on-site exchange:
 
 ## Self-Study 4
 
-`08. - 20. November 2024`
+`08. - 20. November 2025`
 
 ### Tasks
 
@@ -150,7 +150,7 @@ Please prepare the following tasks for our first on-site exchange:
 
 ### Date & Time
 
-**Fr, 21. November 2024, 12.35 - 16.00h**
+**Fr, 21. November 2025, 12.35 - 16.00h**
 
 [BFH, **Brückenstrasse 73**, 3007 Bern, **P111**](https://www.bfh.ch/en/about-bfh/locations-facilities/locations/bern-brueckenstrasse/)
 
@@ -168,7 +168,7 @@ Please prepare the following tasks for our first on-site exchange:
 
 ## Self-Study 5
 
-`22. - 04. December 2024`
+`22. - 04. December 2025`
 
 ### Tasks
 
@@ -183,7 +183,7 @@ Please prepare the following tasks for our first on-site exchange:
 
 ### Date & Time
 
-**Fr, 05. December 2024, 12.35 - 16.00h**
+**Fr, 05. December 2025, 12.35 - 16.00h**
 
 [BFH, **Brückenstrasse 73**, 3007 Bern, **P111**](https://www.bfh.ch/en/about-bfh/locations-facilities/locations/bern-brueckenstrasse/)
 
@@ -200,7 +200,7 @@ Please prepare the following tasks for our first on-site exchange:
 
 ## Self-Study 6
 
-`06. - 18. December 2024`
+`06. - 18. December 2025`
 
 ### Tasks
 
@@ -215,7 +215,7 @@ Please prepare the following tasks for our first on-site exchange:
 
 ### Date & Time
 
-**Fr, 19. December 2024, 12.35 - 16.00h**
+**Fr, 19. December 2025, 12.35 - 16.00h**
 
 [BFH, **Brückenstrasse 73**, 3007 Bern, **P111**](https://www.bfh.ch/en/about-bfh/locations-facilities/locations/bern-brueckenstrasse/)
 
