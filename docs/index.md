@@ -80,7 +80,7 @@ Please prepare the following tasks for our first on-site exchange:
 
 1. Read & prepare: [OSPO 101 - Section 03: Effective Open Source Program (OSPO) Management](https://digital-sustainability.github.io/module-eoss-ospo101/module3/#open-source-program-offices-ospo-and-your-organization)
 1. Collect questions: https://etherpad.wikimedia.org/p/bfh-ch-module-eoss-hs25
-1. Section 2 Task: [💪 #02.03: Strategy ✅](https://github.com/digital-sustainability/module-eoss-hs25-sandbox/issues/7) - Analyse, document and (be able to) present your business
+1. Section 2 Task: [💪 #02.03: Strategy ✅](https://github.com/digital-sustainability/module-eoss-hs25-sandbox/issues/9) - Analyse, document and (be able to) present your business
 
 ## On-Site 3
 
