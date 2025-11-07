@@ -230,11 +230,11 @@
    * 40% + 60% + 1.5% = 101.5% 
    * link:https://digital-sustainability.github.io/module-eoss-ospo101/#course-outline[OSPO 101 has 7 Modules]
  - Content
-   * 7 x 7% : ca. 2-6 Fragen pro Modul >> ca. 14-42 Fragen >> 49%
-   * 11% : ca. 7-14 Fragen übergreifend (Slides and Tasks)
-   * ca. 21-56 Fragen - ca. 2-3 Minuten pro Frage
+   * 7 x 7% : ca. 2-6 questions per Module >> approx. 14-42 questions >> 49%
+   * 11% : approx. 7-14 questions regarding slide- and task-topics beside OSPO101
+   * all in all approx. 21-56 questions ~ 2-3 minutes per question
  - Format
-   * Sprache der Fragen: Englisch
-   * PC Prüfung mit Safe Exam Browser
+   * Language: Englisch
+   * PC with Safe Exam Browser
    * Hilfsmittel «Zusammenfassung» (max 10 Seiten)
    * 90 min Zeit
