@@ -7,7 +7,7 @@ Result: concrete, qualified action item(s): 1, 2, 3
 --
 E.g.
 
-### 1: Change time slot(s) / lenght(s)
+### 1: Change time slot(s) / length(s)
 
 ### 2: Start [...]
 
@@ -15,4 +15,4 @@ E.g.
 --
 ![](https://openpracticelibrary.github.io/opl-media/images/pirate-retro.png)
 --
-https://miro.com/app/board/uXjVLBF15yg=/
+https://miro.com/app/board/uXjVJnWDGRU=/?share_link_id=76452912328
