@@ -47,9 +47,9 @@ Please prepare the following tasks for our first on-site exchange:
 ### Tasks
 
 1. Read & prepare: [OSPO 101 - Section 02: Open Source Business Strategy](https://digital-sustainability.github.io/module-eoss-ospo101/module2/#section-introducing-open-source-business-models)
-1. Collect questions: https://etherpad.wikimedia.org/p/bfh-ch-module-eoss-hs25
-1. Section 1 Task: [💪 #01.05: License(s) ✅](https://github.com/digital-sustainability/module-eoss-hs25-sandbox/issues/3)
-1. Section 1 Task: [💪 #01.06: Reason(s) ✅](https://github.com/digital-sustainability/module-eoss-hs25-sandbox/issues/4)
+1. Collect questions: https://etherpad.wikimedia.org/p/bfh-ch-module-eoss-hs26
+1. Section 1 Task: [💪 #01.05: License(s) ✅](https://github.com/digital-sustainability/module-eoss-hs26-sandbox/issues/3)
+1. Section 1 Task: [💪 #01.06: Reason(s) ✅](https://github.com/digital-sustainability/module-eoss-hs26-sandbox/issues/4)
 
 ## On-Site 2
 
@@ -60,7 +60,7 @@ Please prepare the following tasks for our first on-site exchange:
 
 ### Agenda
 - **Recap**: Inputs & Tasks "OSPO 101 - Section 01"
-- [Discuss and clarify all **open questions**](https://etherpad.wikimedia.org/p/bfh-ch-module-eoss-hs25)
+- [Discuss and clarify all **open questions**](https://etherpad.wikimedia.org/p/bfh-ch-module-eoss-hs26)
 - **Inputs & Tasks "OSPO 101 - Section 02"**
 
 ### Learning Objectives
@@ -79,8 +79,8 @@ Please prepare the following tasks for our first on-site exchange:
 ### Tasks
 
 1. Read & prepare: [OSPO 101 - Section 03: Effective Open Source Program (OSPO) Management](https://digital-sustainability.github.io/module-eoss-ospo101/module3/#open-source-program-offices-ospo-and-your-organization)
-1. Collect questions: https://etherpad.wikimedia.org/p/bfh-ch-module-eoss-hs25
-1. Section 2 Task: [💪 #02.03: Strategy ✅](https://github.com/digital-sustainability/module-eoss-hs25-sandbox/issues/9) - Analyse, document and (be able to) present your business
+1. Collect questions: https://etherpad.wikimedia.org/p/bfh-ch-module-eoss-hs26
+1. Section 2 Task: [💪 #02.03: Strategy ✅](https://github.com/digital-sustainability/module-eoss-hs26-sandbox/issues/9) - Analyse, document and (be able to) present your business
 
 ## On-Site 3
 
@@ -92,7 +92,7 @@ Please prepare the following tasks for our first on-site exchange:
 
 ### Agenda
 - **Recap**: Inputs & Tasks "OSPO 101 - Section 02"
-- [Discuss and clarify all **open questions**](https://etherpad.wikimedia.org/p/bfh-ch-module-eoss-hs25)
+- [Discuss and clarify all **open questions**](https://etherpad.wikimedia.org/p/bfh-ch-module-eoss-hs26)
 - **Inputs & Tasks "OSPO 101 - Section 03"**
 
 ### Learning Objectives
@@ -109,7 +109,7 @@ Please prepare the following tasks for our first on-site exchange:
 ### Tasks
 
 1. Read & prepare: [OSPO 101 - Section 04: Open Source Development Practices](https://digital-sustainability.github.io/module-eoss-ospo101/module4/#effective-open-source-development--participation)
-1. Collect questions: https://etherpad.wikimedia.org/p/bfh-ch-module-eoss-hs25
+1. Collect questions: https://etherpad.wikimedia.org/p/bfh-ch-module-eoss-hs26
 1. Section 2 Task: 💪 #02.03: Strategy ✅ - Finish: Analyse, document and (be able to) present (at next exchange on-site) your business
 
 ## On-Site 4
@@ -123,7 +123,7 @@ Please prepare the following tasks for our first on-site exchange:
 ### Agenda
 - ~12 individual #02.03 presentations of ~5-7 minutes (2 x 45 minutes for presentation slot)
 - **Recap**: Inputs & Tasks "OSPO 101 - Section 03"
-- [Discuss and clarify all **open questions**](https://etherpad.wikimedia.org/p/bfh-ch-module-eoss-hs25)
+- [Discuss and clarify all **open questions**](https://etherpad.wikimedia.org/p/bfh-ch-module-eoss-hs26)
 - **Inputs & Tasks "OSPO 101 - Section 04"**
 
 ### Learning Objectives
@@ -140,7 +140,7 @@ Please prepare the following tasks for our first on-site exchange:
 ### Tasks
 
 1. Read & prepare: [OSPO 101 - Section 05: Open Source Licensing and Compliance Basics](https://digital-sustainability.github.io/module-eoss-ospo101/module5/)
-1. Collect questions: https://etherpad.wikimedia.org/p/bfh-ch-module-eoss-hs25
+1. Collect questions: https://etherpad.wikimedia.org/p/bfh-ch-module-eoss-hs26
 1. Section 4 Tasks: 
   - 💪 #04.01: Key Takeaway(s) ✅
   - 💪 #04.02: Boy Scout Rule ✅
@@ -156,7 +156,7 @@ Please prepare the following tasks for our first on-site exchange:
 
 ### Agenda
 - **Recap**: Inputs & Tasks "OSPO 101 - Section 04"
-- [Discuss and clarify all **open questions**](https://etherpad.wikimedia.org/p/bfh-ch-module-eoss-hs25)
+- [Discuss and clarify all **open questions**](https://etherpad.wikimedia.org/p/bfh-ch-module-eoss-hs26)
 - **Inputs & Tasks "OSPO 101 - Section 05"**
 
 ### Learning Objectives
@@ -173,7 +173,7 @@ Please prepare the following tasks for our first on-site exchange:
 ### Tasks
 
 1. Read & prepare: [OSPO 101 - Section 06: Understanding Upstream Open Source Projects](https://digital-sustainability.github.io/module-eoss-ospo101/module6/)
-1. Collect questions: https://etherpad.wikimedia.org/p/bfh-ch-module-eoss-hs25
+1. Collect questions: https://etherpad.wikimedia.org/p/bfh-ch-module-eoss-hs26
 1. Section 5 Tasks: 
   - 💪 #05.01: Public Contribution ✅
   - 💪 #05.02: Public Pull Request ✅
@@ -189,7 +189,7 @@ Please prepare the following tasks for our first on-site exchange:
 
 ### Agenda
 - **Recap**: Inputs & Tasks "OSPO 101 - Section 05"
-- [Discuss and clarify all **open questions**](https://etherpad.wikimedia.org/p/bfh-ch-module-eoss-hs25)
+- [Discuss and clarify all **open questions**](https://etherpad.wikimedia.org/p/bfh-ch-module-eoss-hs26)
 - **Inputs & Tasks "OSPO 101 - Section 06"**
 
 ### Learning Objectives
@@ -205,7 +205,7 @@ Please prepare the following tasks for our first on-site exchange:
 ### Tasks
 
 1. Read & prepare: [OSPO 101 - Section 07: Creating Open Source Projects](https://digital-sustainability.github.io/module-eoss-ospo101/module7/)
-1. Collect questions: https://etherpad.wikimedia.org/p/bfh-ch-module-eoss-hs25
+1. Collect questions: https://etherpad.wikimedia.org/p/bfh-ch-module-eoss-hs26
 1. Section 6 Tasks: 
   - 💪 #06.01: Semantic Versioning ✅
   - 💪 #06.02: Contribution model ✅
@@ -221,7 +221,7 @@ Please prepare the following tasks for our first on-site exchange:
 
 ### Agenda
 - **Recap**: Inputs & Tasks "OSPO 101 - Section 06"
-- [Discuss and clarify all **open questions**](https://etherpad.wikimedia.org/p/bfh-ch-module-eoss-hs25)
+- [Discuss and clarify all **open questions**](https://etherpad.wikimedia.org/p/bfh-ch-module-eoss-hs26)
 - **Inputs "OSPO 101 - Section 07"**
 
 ### Learning Objectives
